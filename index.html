@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Budget Visualisation</title>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    #legend {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        justify-content: center;
+        margin-bottom: 20px;
+        cursor: pointer;
+    }
+
+    .legend-item {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        padding: 4px 6px;
+        border-radius: 4px;
+        transition: background 0.2s;
+    }
+
+    .legend-item:hover, .legend-item.active {
+        background: #eee;
+    }
+
+    .legend-color {
+        width: 16px;
+        height: 16px;
+    }
+
+    #charts {
+        display: flex;
+        gap: 40px;
+        justify-content: center;
+    }
+
+    svg {
+        background: #fafafa;
+        border: 1px solid #ddd;
+    }
+
+    #details {
+        margin-top: 30px;
+        max-width: 900px;
+        margin-left: auto;
+        margin-right: auto;
+        background: #f5f5f5;
+        padding: 20px;
+        border-radius: 6px;
+        display: none;
+    }
+
+    #details h2 {
+        margin-top: 0;
+    }
+</style>
+</head>
+<body>
+
+<h1>Budget Visualisation</h1>
+
+<div id="legend"></div>
+
+<div id="charts">
+    <div id="chart-expenses"></div>
+    <div id="chart-income"></div>
+</div>
+
+<div id="details"></div>
+
+<script>
+// ------------------------------------------------------
+// LOAD DATA
+// ------------------------------------------------------
+d3.json("strategische_nota.json").then(data => {
+    const sdTargets = data.sd_targets;
+
+    // GLOBAL STATE
+    let currentLevel = "sd";      // "sd" → "actionplans" → "action"
+    let selectedSD = null;
+    let selectedAP = null;
+
+    // COLORS for stacked layers
+    const color = d3.scaleOrdinal(d3.schemeTableau10);
+
+    // ------------------------------------------------------
+    // BUILD STRUCTURES FOR SD LEVEL
+    // ------------------------------------------------------
+    function buildSDData() {
+        return sdTargets.map(sd => {
+            return {
+                id: sd.id,
+                title: sd.title,
+                expenses: sd.budget.expenses,
+                income: sd.budget.income,
+                years: sd.budget.years
+            };
+        });
+    }
+
+    // ------------------------------------------------------
+    // BUILD ACTION-PLAN LEVEL
+    // ------------------------------------------------------
+    function buildAPData(sdId) {
+        const sd = sdTargets.find(s => s.id === sdId);
+        return sd.actionplans.map(ap => {
+            return {
+                id: ap.id,
+                title: ap.title,
+                description: ap.description,
+                actions: ap.actions,
+                expenses: ap.budget.expenses,
+                income: ap.budget.income,
+                years: ap.budget.years
+            };
+        });
+    }
+
+    // ------------------------------------------------------
+    // BUILD SINGLE ACTIONPLAN VIEW
+    // ------------------------------------------------------
+    function buildSingleAPData(sdId, apId) {
+        const sd = sdTargets.find(s => s.id === sdId);
+        const ap = sd.actionplans.find(a => a.id === apId);
+
+        return {
+            id: ap.id,
+            title: ap.title,
+            description: ap.description,
+            actions: ap.actions,
+            expenses: ap.budget.expenses,
+            income: ap.budget.income,
+            years: ap.budget.years
+        };
+    }
+
+    // ------------------------------------------------------
+    // DRAW EVERYTHING
+    // ------------------------------------------------------
+    function updateView() {
+        let dataset, items;
+
+        if (currentLevel === "sd") {
+            dataset = buildSDData();
+            items = sdTargets.map(s => ({ id: s.id, label: s.id }));
+            selectedSD = null;
+            selectedAP = null;
+            hideDetails();
+        }
+        else if (currentLevel === "actionplans") {
+            dataset = buildAPData(selectedSD);
+            const sd = sdTargets.find(s => s.id === selectedSD);
+            items = sd.actionplans.map(ap => ({ id: ap.id, label: ap.id }));
+            hideDetails();
+        }
+        else if (currentLevel === "action") {
+            dataset = [buildSingleAPData(selectedSD, selectedAP)];
+            const ap = buildSingleAPData(selectedSD, selectedAP);
+            items = [{ id: ap.id, label: ap.id }];
+            showDetails(ap);
+        }
+
+        drawLegend(items);
+        drawCharts(dataset);
+    }
+
+    // ------------------------------------------------------
+    // LEGEND
+    // ------------------------------------------------------
+    function drawLegend(items) {
+        const legend = d3.select("#legend");
+        legend.selectAll("*").remove();
+
+        const entries = legend.selectAll(".legend-item")
+            .data(items)
+            .enter()
+            .append("div")
+            .attr("class", "legend-item")
+            .on("click", (event, d) => {
+                if (currentLevel === "sd") {
+                    currentLevel = "actionplans";
+                    selectedSD = d.id;
+                } else if (currentLevel === "actionplans") {
+                    currentLevel = "action";
+                    selectedAP = d.id;
+                }
+                updateView();
+            });
+
+        entries.append("div")
+            .attr("class", "legend-color")
+            .style("background", d => color(d.id));
+
+        entries.append("div").text(d => d.label);
+    }
+
+    // ------------------------------------------------------
+    // CHARTS
+    // ------------------------------------------------------
+    function drawCharts(dataset) {
+        d3.select("#chart-expenses").selectAll("*").remove();
+        d3.select("#chart-income").selectAll("*").remove();
+
+        drawSingleChart("#chart-expenses", dataset, "expenses", "Expenses");
+        drawSingleChart("#chart-income", dataset, "income", "Income");
+    }
+
+    function drawSingleChart(selector, dataset, field, label) {
+        const width = 450, height = 300, margin = { top: 20, right: 20, bottom: 40, left: 60 };
+
+        const svg = d3.select(selector)
+            .append("svg")
+            .attr("width", width)
+            .attr("height", height);
+
+        const years = dataset[0].years;
+        const x = d3.scaleBand().domain(years).range([margin.left, width - margin.right]).padding(0.2);
+        const y = d3.scaleLinear()
+            .domain([0, d3.max(dataset, d => d3.sum(d[field]))])
+            .nice()
+            .range([height - margin.bottom, margin.top]);
+
+        const groups = svg.append("g");
+
+        dataset.forEach(item => {
+            let cumulative = 0;
+
+            item[field].forEach((value, i) => {
+                svg.append("rect")
+                    .attr("x", x(item.years[i]))
+                    .attr("y", y(value + cumulative))
+                    .attr("width", x.bandwidth())
+                    .attr("height", y(cumulative) - y(value + cumulative))
+                    .attr("fill", color(item.id))
+                    .on("mouseover", () => highlightLegend(item.id))
+                    .on("mouseout", () => unhighlightLegend())
+                    .on("click", () => {
+                        if (currentLevel === "sd") {
+                            currentLevel = "actionplans";
+                            selectedSD = item.id;
+                        } else if (currentLevel === "actionplans") {
+                            currentLevel = "action";
+                            selectedAP = item.id;
+                        }
+                        updateView();
+                    });
+
+                cumulative += value;
+            });
+        });
+
+        // axis
+        svg.append("g")
+            .attr("transform", `translate(0, ${height - margin.bottom})`)
+            .call(d3.axisBottom(x).tickFormat(d3.format("d")));
+
+        svg.append("g")
+            .attr("transform", `translate(${margin.left}, 0)`)
+            .call(d3.axisLeft(y));
+
+        svg.append("text")
+            .attr("x", width / 2)
+            .attr("y", margin.top)
+            .attr("text-anchor", "middle")
+            .style("font-size", "14px")
+            .text(label);
+    }
+
+    // ------------------------------------------------------
+    // HOVER HIGHLIGHTING
+    // ------------------------------------------------------
+    function highlightLegend(id) {
+        d3.selectAll(".legend-item")
+            .filter(d => d.id === id)
+            .classed("active", true);
+    }
+
+    function unhighlightLegend() {
+        d3.selectAll(".legend-item").classed("active", false);
+    }
+
+    // ------------------------------------------------------
+    // DETAILS VIEW
+    // ------------------------------------------------------
+    function showDetails(ap) {
+        const box = d3.select("#details");
+        box.style("display", "block");
+
+        box.html(`
+            <h2>${ap.id} – ${ap.title}</h2>
+            <p>${ap.description}</p>
+            <h3>Actions</h3>
+            <ul>
+                ${ap.actions.map(a => `<li>${a[0]} — <em>${a[1]}</em></li>`).join("")}
+            </ul>
+        `);
+    }
+
+    function hideDetails() {
+        d3.select("#details").style("display", "none");
+    }
+
+    // INITIAL RENDER
+    updateView();
+});
+</script>
+</body>
+</html>

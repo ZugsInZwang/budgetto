@@ -1,0 +1,282 @@
+{
+  "sd_targets": [
+    {
+      "id": "SD20001",
+      "title": "Beleidsdoelstelling",
+      "page": 85,
+      "budget": {
+        "years": [
+          2026.0,
+          2027.0,
+          2028.0,
+          2029.0,
+          2030.0,
+          2031.0
+        ],
+        "expenses": [
+          41347448.0,
+          35814303.0,
+          31042248.0,
+          31556013.0,
+          32940628.0,
+          27141902.0
+        ],
+        "income": [
+          4960188.0,
+          4534640.0,
+          4162568.0,
+          3397374.0,
+          3529837.0,
+          3578769.0
+        ]
+      },
+      "vte": {
+        "years": [
+          2026.0,
+          2027.0,
+          2028.0,
+          2029.0,
+          2030.0,
+          2031.0
+        ],
+        "vte": [
+          116.19,
+          114.69,
+          113.71,
+          114.31,
+          115.91,
+          114.71
+        ]
+      },
+      "actionplans": [
+        {
+          "id": "PO20051",
+          "title": "Masterproject Openbaar Domein Sociale Huisvestingsprojecten. 2026 - 2031 Groep Gent",
+          "page": 85,
+          "description": "Thuispunt Gent realiseert de komende jaren een aantal grootschalige renovatie- en/of nieuwbouwprojecten waarbij er een impact is op het openbaar domein. Dit betekent dat het openbaar domein mee moet worden aangelegd. De stad krijgt hiervoor belangrijke subsidies van Wonen in Vlaanderen. Het masterproject omvat de coördinatie van: * de visievorming rond de aanleg van het openbaar domein rond sociale woonprojecten van Thuispunt Gent * de stapsgewijze realisatie van de aanleg zelf. Plan PR41046 - Heraanleg openbaar domein bij sociale woonprojecten Staf Departement Stedelijke Ontwikkeling Actieplan ",
+          "budget": {
+            "years": [
+              2026.0,
+              2027.0,
+              2028.0,
+              2029.0,
+              2030.0,
+              2031.0
+            ],
+            "expenses": [
+              312250.0,
+              283345.0,
+              42520.0,
+              76603.0,
+              142687.0,
+              164911.0
+            ],
+            "income": [
+              178200.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          "vte": {
+            "years": [
+              2026.0,
+              2027.0,
+              2028.0,
+              2029.0,
+              2030.0,
+              2031.0
+            ],
+            "vte": [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          "actions": [
+            [
+              "PR40474 - Omgeving sociaal huisvestingsproject Voorhavenlaan 25 - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40621 - Omgeving sociaal huisvestingsproject CLT Meulestede – aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40781 - Omgeving sociaal huisvestingsproject Marseillestraat - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40782 - Omgeving sociaal huisvestingsproject Baviaanstraat - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40784 - Omgeving sociaal huisvestingsproject Witte Kaproenenplein - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40785 - Omgeving sociaal huisvestingsproject Wolfputsite - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40786 - Omgeving sociaal huisvestingsproject Jan Yoensstraat - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40787 - Omgeving sociaal huisvestingsproject Jubileumlaan - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40788 - Omgeving sociaal huisvestingsproject New Orleansstraat (SAW) - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40789 - Omgeving sociaal huisvestingsproject Goedendagstraat (L-gebouw) - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40791 - Omgeving sociaal huisvestingsproject Epéeplein - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40792 - Omgeving sociaal huisvestingsproject Ferrerlaan - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40793 - Omgeving sociaal huisvestingsproject Borluut - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40877 - Samen bouwen aan de nieuwe tuinwijk Sint-Bernadette",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40968 - Omgeving sociaal woonproject Groeningestraat - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40969 - Sociaal woonproject omgeving Sneysonnestraat - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40970 - Omgeving sociaal woonproject Vogelhoekwijk - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40992 - Omgeving sociaal woonproject Bevrijdingslaan - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40993 - Omgeving sociaal woonproject Bloemekeswijk - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40994 - Omgeving sociaal woonproject Jan Yoensstraat - aanleg openbaar domein - fase 2",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40995 - Omgeving sociaal woonproject Serafijnstraat - Cloquetstraat - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40996 - Omgeving sociaal woonproject Sint-Baafsdorp - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR40998 - Omgeving sociaal woonproject Neuseplein - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR41008 - Opmaken van masterplan wonen aan de Watersportbaan",
+              "Dienst Stedenbouw en Ruimtelijke Planning"
+            ],
+            [
+              "PR41010 - Omgeving sociaal woonproject Van Hoorebekehof - aanleg openbaar domein",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ],
+            [
+              "PR41046 - Heraanleg openbaar domein bij sociale woonprojecten",
+              "Staf Departement Stedelijke Ontwikkeling"
+            ]
+          ]
+              "Beleidscel Precair verblijf, opvang en overgang naar wonen\n(POOW)"
+            ]
+          ]
+        },
+        },
+        {
+          "id": "OD20001",
+          "title": "Verhogen van de woningkwaliteit en duurzaamheid van woningen 2026 - 2031 Groep Gent",
+          "page": 87,
+          "description": "De gebouwensector is verantwoordelijk voor een aanzienlijk deel van de CO2-uitstoot. We werken met Dienst Toezicht Wonen Bouwen en Milieu, Dienst Milieu en Klimaat en Dienst Wonen aan een renovatiesprong om een maximaal aantal woningen te renoveren naar duurzaamheid en basiskwaliteit. De werking van De Energiecentrale wordt uitgebreid tot een renovatiecentrale en zet in op een renovatiegolf door Gentenaars te helpen met renovatieadvies, renovatiebegeleiding, financiële ondersteuning en ontzorging. Naast energetische renovatie zet De Energiecentrale ook aan tot ingrepen om woningen klimaatrobuust te maken. De Energiecentrale zet naast advisering en begeleiding van individuele woningen ook in op de collectieve renovatie van appartementen en op de uitbouw van een solide aannemerswerking. We voorzien renovatiepremies en dienstverlening aan verhuurders. We zetten het project Gent Knapt Op verder en onderzoeken een synergie met het Vlaamse Noodkoopfonds. We passen sociaal beheer toe. We zetten EVA vzw REGent maximaal in bij duurzame en collectieve renovatieprojecten. We voorzien in een investeringssubsidie aan Thuispunt Gent om maatregelen inzake de energietransitie te integreren in haar renovatieprogramma. ",
+          "budget": {
+            "years": [
+              2026.0,
+              2027.0,
+              2028.0,
+              2029.0,
+              2030.0,
+              2031.0
+            ],
+            "expenses": [
+              8967727.0,
+              9381758.0,
+              10111495.0,
+              10255539.0,
+              10456797.0,
+              9510062.0
+            ],
+            "income": [
+              3508816.0,
+              3836458.0,
+              3478752.0,
+              2710937.0,
+              2832774.0,
+              2871487.0
+            ]
+          },
+          "vte": {
+            "years": [
+              2026.0,
+              2027.0,
+              2028.0,
+              2029.0,
+              2030.0,
+              2031.0
+            ],
+            "vte": [
+              35.78,
+              35.07,
+              34.07,
+              32.07,
+              32.07,
+              32.07
+            ]
+          },
+          "actions": [
+            [
+              "AC34251 - Ondersteunen van het energiehuis EVA vzw REGent",
+              "Ondersteuning verzelfstandigde entiteiten DEPMGG"
+            ],
+            [
+              "AC35479 - Bijdragen aan een toename van duurzame en kwalitatieve woningen",
+              "Dienst Milieu en Klimaat"
+            ],
+            [
+              "AC35539 - Waarborgen van basiskwaliteit in de woningrenovatie van noodkopers",
+              "Beleidscel Precair verblijf, opvang en overgang naar wonen\n(POOW)"
+            ],
+            [
+              "AC35734 - Bijdragen aan een toename van kwalitatieve en duurzame woningen",
+              "Dienst Wonen"
+            ],
+            [
+              "ACB1412 - Waarborgen van basiskwaliteit in de woningrenovatie van noodkopers",
+			]
+		]}
+}
