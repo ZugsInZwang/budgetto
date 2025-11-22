@@ -3,7 +3,7 @@ import re
 import json
 
 from extractors import (extract_text_lines, extract_tables_with_coords)
-from detectors import (detect_identifier, is_budget_table, is_vte_table, looks_like_actions_table)
+from detectors import (detect_identifier, is_budget_table, is_vte_table, looks_like_actions_table, is_footer_or_page_number)
 from cleaners import (clean_numeric_table, convert_vte_table, convert_budget_table)
 
 
@@ -19,6 +19,7 @@ def parse_pdf_to_json(pdf_path):
     with pdfplumber.open(pdf_path) as pdf:
 
         for page_number, page in enumerate(pdf.pages, start=85):
+            
             # Extract EVERYTHING with coordinates
             text_lines = extract_text_lines(page)
             table_items = extract_tables_with_coords(page)
@@ -28,7 +29,9 @@ def parse_pdf_to_json(pdf_path):
             items.sort(key=lambda x: x["y"])
 
             # Sequential processing
-            in_description = True
+            in_description = False # Indicates if we are currently in the actionplan description
+            in_title = False    # Indicates if we are currently in the SD title
+            title_text = ""
             for item in items:
 
                 # ------------------------------------------------------------
@@ -36,14 +39,20 @@ def parse_pdf_to_json(pdf_path):
                 # ------------------------------------------------------------
                 if item["type"] == "text":
                     line = item["content"]
-
+                    if is_footer_or_page_number(line):
+                        continue
+                    
                     ident = detect_identifier(line)
+
+                    # Check for SD policy goal title
+                    if current_sd and in_title:
+                        current_sd["title"] += line
 
                     # New SD policy goal
                     if ident and ident.startswith("SD"):
                         current_sd = {
                             "id": ident,
-                            "title": line.replace(ident, "").strip(),
+                            "title": "",
                             "page": page_number,
                             "budget": None,
                             "vte": None,
@@ -51,6 +60,7 @@ def parse_pdf_to_json(pdf_path):
                         }
                         data["sd_targets"].append(current_sd)
                         current_actionplan = None
+                        in_title = True
                         in_description = True
                         continue
 
@@ -68,6 +78,7 @@ def parse_pdf_to_json(pdf_path):
                         if current_sd:
                             current_sd["actionplans"].append(current_actionplan)
                         in_description = True
+                        in_title = False
                         continue
 
                     # Add to description if we are inside an actionplan
@@ -83,6 +94,9 @@ def parse_pdf_to_json(pdf_path):
                 # TABLE PROCESSING
                 # ------------------------------------------------------------
                 elif item["type"] == "table":
+                    in_title = False
+                    title_text = ""
+                    
                     tbl = item["content"]
 
                     # Determine table type
@@ -116,8 +130,8 @@ def parse_pdf_to_json(pdf_path):
 
 pdf_path = "../data/pdf/p90-194_strategische_nota.pdf"  #"../data/p90-95 BO 2026 - MJP 26-31.pdf" #p90-194_strategische_nota.pdf"
 result = parse_pdf_to_json(pdf_path)
-with open("../data/strategische_nota.json", "w", encoding="utf-8") as f:
+with open("../strategische_nota.json", "w", encoding="utf-8") as f:
     json.dump(result, f, ensure_ascii=False, indent=2)
 
-print("Saved to output.json")
+print("Saved json")
 

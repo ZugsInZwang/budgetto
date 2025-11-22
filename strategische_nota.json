@@ -2,7 +2,7 @@
   "sd_targets": [
     {
       "id": "SD20001",
-      "title": "Beleidsdoelstelling",
+      "title": "Wonen",
       "page": 85,
       "budget": {
         "years": [
@@ -53,7 +53,7 @@
           "id": "PO20051",
           "title": "Masterproject Openbaar Domein Sociale Huisvestingsprojecten. 2026 - 2031 Groep Gent",
           "page": 85,
-          "description": "Thuispunt Gent realiseert de komende jaren een aantal grootschalige renovatie- en/of nieuwbouwprojecten waarbij er een impact is op het openbaar domein. Dit betekent dat het openbaar domein mee moet worden aangelegd. De stad krijgt hiervoor belangrijke subsidies van Wonen in Vlaanderen. Het masterproject omvat de coördinatie van: * de visievorming rond de aanleg van het openbaar domein rond sociale woonprojecten van Thuispunt Gent * de stapsgewijze realisatie van de aanleg zelf. Plan PR41046 - Heraanleg openbaar domein bij sociale woonprojecten Staf Departement Stedelijke Ontwikkeling Actieplan ",
+          "description": "Thuispunt Gent realiseert de komende jaren een aantal grootschalige renovatie- en/of nieuwbouwprojecten waarbij er een impact is op het openbaar domein. Dit betekent dat het openbaar domein mee moet worden aangelegd. De stad krijgt hiervoor belangrijke subsidies van Wonen in Vlaanderen. Het masterproject omvat de coördinatie van: * de visievorming rond de aanleg van het openbaar domein rond sociale woonprojecten van Thuispunt Gent * de stapsgewijze realisatie van de aanleg zelf. ",
           "budget": {
             "years": [
               2026.0,
@@ -281,7 +281,7 @@
           "id": "OD20002",
           "title": "2026 - 2031 Groep Gent",
           "page": 87,
-          "description": "laag inkomen, grote gezinnen en de huurmarkt OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 87 We creëren zoveel mogelijk betaalbare huurwoningen, gericht op doelgroepen in een kwetsbare situatie met een laag inkomen. Dit aanbod bestaat voornamelijk uit sociale woningen en AC35735 - Beleid voeren voor voldoende, betaalbare, gezinsvriendelijke en diverse woningen Dienst Wonen AC35736 - Beleid voeren voor voldoende en betaalbare studentenhuisvesting Dienst Wonen Actieplan Helpen van Gentenaars met het verhogen van woonstbehoud, woonzekerheid en ",
+          "description": "laag inkomen, grote gezinnen en de huurmarkt ",
           "budget": {
             "years": [
               2026.0,
@@ -469,7 +469,7 @@
           "id": "OD20047",
           "title": "2026 - 2031 Groep Gent",
           "page": 89,
-          "description": "toegang tot huisvesting voor daklozen Via preventie (bemiddeling en begeleiding) en huisvesting wil Stad Gent de woonzekerheid verhogen van Gentenaars in een kwetsbare situatie en de toegang tot duurzame huisvesting voor daklozen realiseren. Preventie: OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 89 De werking van de Dienst Sociale Woonbegeleiding focust op preventie uithuiszetting, de tweedelijnshulpverlening is gericht op woonstbehoud van Gentenaars in een kwetsbare situatie. We doen dit door zowel op de sociale als private huurmarkt woonondersteuning (wooncoaching of woonbegeleiding afhankelijk van het woonprofiel van de cliënt) aan te bieden en door woonbemiddeling bij huurachterstal en ondersteuning van cliënten bij opgestarte procedures tot uithuiszettingen en gerichte doorverwijzing bij andere huisvestingsproblemen. Opvang: Stad Gent voorziet diverse vormen van opvang voor daklozen zoals activering van leegstand in sociale huisvesting, instapwonen, projecten opvang en oriëntatie, nachtopvang. Binnen dit luik willen we specifiek de opvang in functie van verdere trajecten optimaliseren (zowel dag-, nacht- als regulier opvangaanbod). Huisvesting: Hoewel opvang noodzakelijk en verantwoord is als tijdelijke oplossing, is duurzame huisvesting noodzakelijk. Begeleiding op maat is hierbij essentieel. Daarom breiden we de huisvestingsgerichte benadering voor structureel daklozen uit. Hierbij voorziet de stad de nodige begeleiding. ACD1110 - Aanbieden van wooncoaching bij sociale en private huurders in functie van woonstbehoud Sociale woonbegeleiding ACD1112 - Aanbieden van woonbemiddeling bij uithuiszettingen, huurachterstal en andere huisvestingsproblemen Sociale woonbegeleiding ACD5010 - Aanbieden van woonbegeleiding aan private en sociale huurders in functie van woonstbehoud Sociale woonbegeleiding ",
+          "description": "toegang tot huisvesting voor daklozen Via preventie (bemiddeling en begeleiding) en huisvesting wil Stad Gent de woonzekerheid verhogen van Gentenaars in een kwetsbare situatie en de toegang tot duurzame huisvesting voor daklozen realiseren. Preventie: ",
           "budget": {
             "years": [
               2026.0,
@@ -557,7 +557,7 @@
     },
     {
       "id": "SD20002",
-      "title": "Beleidsdoelstelling",
+      "title": "Ruimte",
       "page": 91,
       "budget": {
         "years": [
@@ -608,7 +608,7 @@
           "id": "PO20004",
           "title": "Masterproject Tondelier 2026 - 2031 Groep Gent",
           "page": 91,
-          "description": "Het realiseren van een nieuwe duurzame kwalitatieve woonbuurt met een mix van gezinsvriendelijke woningen, betaalbare woningen, solidair wonen en grootschalige studentenhuisvesting. Met de realisatie van deze woonbuurt wordt de voormalige industriële brownfield gesaneerd. Actieplan ",
+          "description": "Het realiseren van een nieuwe duurzame kwalitatieve woonbuurt met een mix van gezinsvriendelijke woningen, betaalbare woningen, solidair wonen en grootschalige studentenhuisvesting. Met de realisatie van deze woonbuurt wordt de voormalige industriële brownfield gesaneerd. ",
           "budget": {
             "years": [
               2026.0,
@@ -772,7 +772,7 @@
           "id": "PO20024",
           "title": "Gebiedsontwikkeling Oude Dokken 2026 - 2031 Groep Gent",
           "page": 93,
-          "description": "Het stadsvernieuwingsproject De Oude Dokken ligt in het noordoosten van Gent, tussen de Dampoort en de Muide, rondom de drie dokken. Het voormalige Gentse havengebied wordt een OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 93 plek voor stedelijk wonen. Hier komt een gloednieuw stadsdeel met ruimte voor wonen, groen, werken, recreatie en ontmoeting. Op deze plek worden ca. 1.000 nieuwe woonunits (20 % ",
+          "description": "Het stadsvernieuwingsproject De Oude Dokken ligt in het noordoosten van Gent, tussen de Dampoort en de Muide, rondom de drie dokken. Het voormalige Gentse havengebied wordt een ",
           "budget": {
             "years": [
               2026.0,
@@ -848,7 +848,7 @@
           "id": "PO20101",
           "title": "Masterproject Viaduct Gentbrugge 2026 - 2044 Groep Gent",
           "page": 94,
-          "description": "Het E-17 viaduct in Gentbrugge heeft een eindige levensduur en de infrastructuur zorgt samen met de R4 en E-40 voor veel hinder in het zuiden van Gent. Daarom werd de procedure Complex Project opgestart. Dit is een Vlaamse procedure om complexe infrastructuurprojecten te onderzoeken en eventueel uit te voeren. Het Complex Project Viaduct Gentbrugge wil komen tot een duurzame, geïntegreerde oplossing. Inhoudelijk wordt gezocht naar een nieuw verkeersysteem, maar spelen ook leefbaarheid, multimodale bereikbaarheid en groenblauwe landschappen (water en natuur) een belangrijke rol. Het projectgebied omvat de infrastructuurdriehoek E-17, R4 en E-40 tussen de verkeerswisselaars van Destelbergen en Zwijnaarde, maar omvat ook de omgeving van deze infrastructuren. De betrokken gemeenten zijn Gent, Destelbergen, Laarne en Merelbeke-Melle. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 94 De procedure Complex Project bestaat uit vier fases: verkenning, onderzoek, uitwerking en uitvoering, en wordt getrokken door De Werkvennootschap en het Departement Omgeving van de Vlaamse overheid. De Stad Gent is een partner in dit proces. ",
+          "description": "Het E-17 viaduct in Gentbrugge heeft een eindige levensduur en de infrastructuur zorgt samen met de R4 en E-40 voor veel hinder in het zuiden van Gent. Daarom werd de procedure Complex Project opgestart. Dit is een Vlaamse procedure om complexe infrastructuurprojecten te onderzoeken en eventueel uit te voeren. Het Complex Project Viaduct Gentbrugge wil komen tot een duurzame, geïntegreerde oplossing. Inhoudelijk wordt gezocht naar een nieuw verkeersysteem, maar spelen ook leefbaarheid, multimodale bereikbaarheid en groenblauwe landschappen (water en natuur) een belangrijke rol. Het projectgebied omvat de infrastructuurdriehoek E-17, R4 en E-40 tussen de verkeerswisselaars van Destelbergen en Zwijnaarde, maar omvat ook de omgeving van deze infrastructuren. De betrokken gemeenten zijn Gent, Destelbergen, Laarne en Merelbeke-Melle. ",
           "budget": {
             "years": [
               2026.0,
@@ -904,7 +904,7 @@
           "id": "OD20011",
           "title": "Beheren van de publieke ruimte 2026 - 2031 Groep Gent",
           "page": 95,
-          "description": "Stad Gent beheert het openbaar domein via duidelijke definities, afspraken met de betrokken partners en digitale inventarisatie van alle objecten. Elk onderdeel heeft een verantwoordelijke, kwaliteitsstandaard en beheerrichtlijn. Veiligheid staat centraal, met proactief en reactief beheer. Via opvolgtools beheren we de conditie en innames en streven zo naar minder-hinder en een goed onderhouden openbaar domein. In onze werking zorgen we voor heldere communicatie en participatie voor en met de burger. Actieplan ",
+          "description": "Stad Gent beheert het openbaar domein via duidelijke definities, afspraken met de betrokken partners en digitale inventarisatie van alle objecten. Elk onderdeel heeft een verantwoordelijke, kwaliteitsstandaard en beheerrichtlijn. Veiligheid staat centraal, met proactief en reactief beheer. Via opvolgtools beheren we de conditie en innames en streven zo naar minder-hinder en een goed onderhouden openbaar domein. In onze werking zorgen we voor heldere communicatie en participatie voor en met de burger. ",
           "budget": {
             "years": [
               2026.0,
@@ -1080,7 +1080,7 @@
           "id": "OD20022",
           "title": "2026 - 2031 Groep Gent",
           "page": 97,
-          "description": "het stedenbouwkundig instrumentarium We zetten ruimtelijke visievorming en het stedenbouwkundig instrumentarium in om mee de doelstellingen en de beleidsstrategieën voor erfgoed, economie, wonen, groen of water, te realiseren. Daarbij is het van belang om voorafgaand bestaande (ruimtelijke) kaders en (stedenbouwkundige) regels te harmoniseren en te vereenvoudigen om zo meer efficiënte en effectieve plannings- en vergunningstrajecten te faciliteren. We vertrekken van stadsbrede, gebiedsgerichte of thematische ruimtelijke visievorming en we bouwen (verordenende) kaders hiermee op waarbij we ontwerpend onderzoek en mensgericht plannen als methodiek hanteren. Aanvullend communiceren en sensibiliseren we hierover breed om onze Gentenaars, Gentmakers en Gentgebruikers meer kennis en begrip bij te brengen over deze visies. Om in onze stedelijke ontwikkeling het dagelijks voorzieningenaanbod middels de 15-minuten stad te garanderen, vertrekken we hier ook van ruimtelijke visievorming, werken we een nabijheidsstrategie uit en zetten we plannings- en monitoringstools op. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 97 ",
+          "description": "het stedenbouwkundig instrumentarium We zetten ruimtelijke visievorming en het stedenbouwkundig instrumentarium in om mee de doelstellingen en de beleidsstrategieën voor erfgoed, economie, wonen, groen of water, te realiseren. Daarbij is het van belang om voorafgaand bestaande (ruimtelijke) kaders en (stedenbouwkundige) regels te harmoniseren en te vereenvoudigen om zo meer efficiënte en effectieve plannings- en vergunningstrajecten te faciliteren. We vertrekken van stadsbrede, gebiedsgerichte of thematische ruimtelijke visievorming en we bouwen (verordenende) kaders hiermee op waarbij we ontwerpend onderzoek en mensgericht plannen als methodiek hanteren. Aanvullend communiceren en sensibiliseren we hierover breed om onze Gentenaars, Gentmakers en Gentgebruikers meer kennis en begrip bij te brengen over deze visies. Om in onze stedelijke ontwikkeling het dagelijks voorzieningenaanbod middels de 15-minuten stad te garanderen, vertrekken we hier ook van ruimtelijke visievorming, werken we een nabijheidsstrategie uit en zetten we plannings- en monitoringstools op. ",
           "budget": {
             "years": [
               2026.0,
@@ -1224,7 +1224,7 @@
           "id": "OD20024",
           "title": "Vernieuwen van wegen, bruggen en waterlopen 2026 - 2031 Groep Gent",
           "page": 99,
-          "description": "Stad Gent vernieuwt en verandert het openbaar domein waar de staat of andere noden vanuit mobiliteit, klimaatadaptatie of waterbeheer dit vragen. We volgen de ontwikkling van nieuw openbaar domein op zodat dit gerealiseerd wordt volgens de geldende kwaliteits- en veiligheidsverwachtingen. We verzorgen een efficiënte en snelle uitvoering en opvolging van deze vernieuwingsprojecten door de inzet van ontwerpers, projectleiders en werftoezichters. Actieplan Samen bouwen aan architectuurkwaliteit van beeldbepalende bouw- en ruimteprojecten ",
+          "description": "Stad Gent vernieuwt en verandert het openbaar domein waar de staat of andere noden vanuit mobiliteit, klimaatadaptatie of waterbeheer dit vragen. We volgen de ontwikkling van nieuw openbaar domein op zodat dit gerealiseerd wordt volgens de geldende kwaliteits- en veiligheidsverwachtingen. We verzorgen een efficiënte en snelle uitvoering en opvolging van deze vernieuwingsprojecten door de inzet van ontwerpers, projectleiders en werftoezichters. ",
           "budget": {
             "years": [
               2026.0,
@@ -1416,7 +1416,7 @@
           "id": "OD20111",
           "title": "Onderhouden van wegen, bruggen en waterlopen 2026 - 2031 Groep Gent",
           "page": 101,
-          "description": "Stad Gent streeft naar een goed onderhouden, veilig en duurzaam openbaar domein. Via onderhoudsprogramma's garanderen we dat de conditie van het openbaar domein in topvorm blijft. We verzorgen dit op een snelle en weloverwogen manier, door de efficiënte inzet van eigen medewerkers en door uitbesteding aan aannemers. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 101 ",
+          "description": "Stad Gent streeft naar een goed onderhouden, veilig en duurzaam openbaar domein. Via onderhoudsprogramma's garanderen we dat de conditie van het openbaar domein in topvorm blijft. We verzorgen dit op een snelle en weloverwogen manier, door de efficiënte inzet van eigen medewerkers en door uitbesteding aan aannemers. ",
           "budget": {
             "years": [
               2026.0,
@@ -1508,7 +1508,7 @@
           "id": "OD20112",
           "title": "2026 - 2031 Groep Gent",
           "page": 102,
-          "description": "Ontwikkeling De management- en ondersteunende processen binnen het Departement Stedelijke Ontwikkeling zijn gericht op het continu verbeteren van de werking van de organisatie. Ze vormen de motor achter een stabiele, efficiënte en toekomstgerichte organisatie die de verschillende inhoudelijke doelstellingen van het Departement Stedelijke Ontwikkeling en al zijn diensten ondersteunt. Managementtaken omvatten het plannen, controleren, bijsturen en evalueren van de organisatie. Het directieteam zorgt hierbij voor een strategische aansturing van het departement. Zij dragen de eindverantwoordelijkheid over de verscheidene processen (management, ondersteunende en kernprocessen). Dit houdt in dat er toezicht wordt gehouden op de samenhang, kwaliteit en doelgerichtheid van alle processen en dat er verantwoordelijkheid wordt genomen voor het behalen van de vooropgestelde doelstellingen. Ondersteunende processen zorgen voor een vlotte dagelijkse werking. Ze faciliteren de departementale en dienstcoördinatie op vlak van HR, FIN, COM, KWAL, ICT, DATA en ADMIN. Daarnaast wordt ingezet op proactieve analyse, rapportage en opvolging, afgestemd op expertisegebieden. Via stakeholdermanagement en liaisonfuncties wordt actief verbonden met netwerken binnen en buiten het departement, wat de slagkracht van de diensten en het departement versterkt. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 102 Actieplan Verbeteren van de fysieke woon- en (be)leefomgeving met een evenwichtig en gedragen ",
+          "description": "Ontwikkeling De management- en ondersteunende processen binnen het Departement Stedelijke Ontwikkeling zijn gericht op het continu verbeteren van de werking van de organisatie. Ze vormen de motor achter een stabiele, efficiënte en toekomstgerichte organisatie die de verschillende inhoudelijke doelstellingen van het Departement Stedelijke Ontwikkeling en al zijn diensten ondersteunt. Managementtaken omvatten het plannen, controleren, bijsturen en evalueren van de organisatie. Het directieteam zorgt hierbij voor een strategische aansturing van het departement. Zij dragen de eindverantwoordelijkheid over de verscheidene processen (management, ondersteunende en kernprocessen). Dit houdt in dat er toezicht wordt gehouden op de samenhang, kwaliteit en doelgerichtheid van alle processen en dat er verantwoordelijkheid wordt genomen voor het behalen van de vooropgestelde doelstellingen. Ondersteunende processen zorgen voor een vlotte dagelijkse werking. Ze faciliteren de departementale en dienstcoördinatie op vlak van HR, FIN, COM, KWAL, ICT, DATA en ADMIN. Daarnaast wordt ingezet op proactieve analyse, rapportage en opvolging, afgestemd op expertisegebieden. Via stakeholdermanagement en liaisonfuncties wordt actief verbonden met netwerken binnen en buiten het departement, wat de slagkracht van de diensten en het departement versterkt. ",
           "budget": {
             "years": [
               2026.0,
@@ -1716,7 +1716,7 @@
           "id": "OD20118",
           "title": "Werken aan water in de stad - waterkwaliteit 2026 - 2031 Groep Gent",
           "page": 104,
-          "description": "We zetten in op een robuust en toekomstbestendig waterbeheer en werken actief aan een hogere riolerings- en zuiveringsgraad. Door de volledige uitbouw van onze infrastructuur en het OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 104 drastisch verminderen van overstorten, beperken we de impact op de waterkwaliteit tot een minimum. Tegelijk verbeteren we actief de ecologische kwaliteit van waterlopen, grachten en vijvers. Water wordt niet enkel functioneel beheerd, maar ook ingezet als troef voor de stad: voor zachte recreatie, rust en beleving, landschapsherstel, zwemzones en duurzame energie. Zo blijft water een essentieel onderdeel van de identiteit en leefkwaliteit in Gent. ",
+          "description": "We zetten in op een robuust en toekomstbestendig waterbeheer en werken actief aan een hogere riolerings- en zuiveringsgraad. Door de volledige uitbouw van onze infrastructuur en het ",
           "budget": {
             "years": [
               2026.0,
@@ -1784,7 +1784,7 @@
     },
     {
       "id": "SD20003",
-      "title": "Beleidsdoelstelling",
+      "title": "Mobiliteit",
       "page": 105,
       "budget": {
         "years": [
@@ -1891,7 +1891,7 @@
           "id": "OD20106",
           "title": "Zich verplaatsen in Gent is en voelt veilig 2026 - 2031 Groep Gent",
           "page": 106,
-          "description": "Verplaatsen in Gent voelt veilig omdat we geen conflicten aanvaarden. We creëren leesbare pleinen en straten en we houden in onze ontwerpen rekening met menselijke fouten in het verkeer. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 106 ",
+          "description": "Verplaatsen in Gent voelt veilig omdat we geen conflicten aanvaarden. We creëren leesbare pleinen en straten en we houden in onze ontwerpen rekening met menselijke fouten in het verkeer. ",
           "budget": {
             "years": [
               2026.0,
@@ -2003,7 +2003,7 @@
           "id": "OD20107",
           "title": "Bundelen, verduurzamen en toegankelijk maken van het vervoer van mensen en goederen 2026 - 2031 Groep Gent",
           "page": 107,
-          "description": "Mobiliteit in Gent overstijgt onze planeet niet. Je actief verplaatsen is de eerste keuze en we streven naar minder gemotoriseerde ritten. We bundelen en vergroenen het vervoer van mensen en goederen. Elke Gentenaar kan eigen mobiliteitskeuzes maken. We werken drempels weg en voorzien in een toegankelijk aanbod voor iedereen. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 107 ",
+          "description": "Mobiliteit in Gent overstijgt onze planeet niet. Je actief verplaatsen is de eerste keuze en we streven naar minder gemotoriseerde ritten. We bundelen en vergroenen het vervoer van mensen en goederen. Elke Gentenaar kan eigen mobiliteitskeuzes maken. We werken drempels weg en voorzien in een toegankelijk aanbod voor iedereen. ",
           "budget": {
             "years": [
               2026.0,
@@ -2103,7 +2103,7 @@
           "id": "OD20108",
           "title": "Verhogen van de bereikbaarheid van elke plek in Gent 2026 - 2031 Groep Gent",
           "page": 108,
-          "description": "Je kan elke plek in Gent goed bereiken en we sturen het verkeer selectief via de juiste route. We bouwen kwalitatieve netwerken op mensenmaat en die bepalen mee hoe de stad zich ruimtelijk ontwikkelt. We vereenvoudigen het combineren van vervoersmodi over langere afstanden. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 108 ",
+          "description": "Je kan elke plek in Gent goed bereiken en we sturen het verkeer selectief via de juiste route. We bouwen kwalitatieve netwerken op mensenmaat en die bepalen mee hoe de stad zich ruimtelijk ontwikkelt. We vereenvoudigen het combineren van vervoersmodi over langere afstanden. ",
           "budget": {
             "years": [
               2026.0,
@@ -2219,7 +2219,7 @@
           "id": "OD20109",
           "title": "Mobiliteitskeuzes dragen bij aan aangename Gentse buurten 2026 - 2031 Groep Gent",
           "page": 109,
-          "description": "Gentse buurten zijn aangenaam om te leven omdat we wegen en plekken inrichten die uitnodigen om elkaar te ontmoeten. We groeperen het parkeeraanbod en gaan sluipverkeer tegen. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 109 ",
+          "description": "Gentse buurten zijn aangenaam om te leven omdat we wegen en plekken inrichten die uitnodigen om elkaar te ontmoeten. We groeperen het parkeeraanbod en gaan sluipverkeer tegen. ",
           "budget": {
             "years": [
               2026.0,
@@ -2331,7 +2331,7 @@
     },
     {
       "id": "SD20004",
-      "title": "Beleidsdoelstelling",
+      "title": "Klimaat en natuur",
       "page": 111,
       "budget": {
         "years": [
@@ -2382,7 +2382,7 @@
           "id": "PO20036",
           "title": "Masterproject Citadelpark+. 2026 - 2031 Groep Gent",
           "page": 111,
-          "description": "We herwaarderen het Citadelpark als cultuurhistorisch beschermd landschap, waarbij het evenwicht wordt hersteld tussen de aanwezige bovenlokale functies en de parkruimte. Het Citadelpark wordt een park voor de stad en een tuin voor de buurt waarbij de gebouwen en hun werking zoals het Kuipke, ICC en SMAK te gast kunnen blijven in het park. PR40604 - Bouwen logistieke ondergrond gebouwencluster Citadelpark Staf Departement Stedelijke Ontwikkeling PR40643 - Coördinatie POD Citadelpark+ Staf Departement Stedelijke Ontwikkeling PR40838 - SMAKisteklein - Uitbreiding en (ver)nieuwbouw SMAK voor de permanente collectie Ondersteuning verzelfstandigde entiteiten DEPCULT PR41041 - Renoveren Kuipke Dienst FM Themagebouwen PR41044 - Instandhoudingswerken \"Zwitserse Vallei\" en Kazematten (incl. onderzoek totale staat) Dienst FM Themagebouwen PR41060 - Realiseren van de tussentuinen in het Citadelpark Groendienst Actieplan ",
+          "description": "We herwaarderen het Citadelpark als cultuurhistorisch beschermd landschap, waarbij het evenwicht wordt hersteld tussen de aanwezige bovenlokale functies en de parkruimte. Het Citadelpark wordt een park voor de stad en een tuin voor de buurt waarbij de gebouwen en hun werking zoals het Kuipke, ICC en SMAK te gast kunnen blijven in het park. ",
           "budget": {
             "years": [
               2026.0,
@@ -2470,7 +2470,7 @@
           "id": "OD20008",
           "title": "Realiseren van een klimaatneutrale stad met een sociaal rechtvaardige energietransitie 2026 - 2031 Groep Gent",
           "page": 112,
-          "description": "Stad Gent moet de uitstoot van broeikasgassen tot nul herleiden, ten laatste in 2050. Dit vraagt een ingrijpende verandering in de manier waarop we energie produceren, verdelen en gebruiken. Centraal hierin staat dat die verandering ook sociaal duurzaam moet zijn. Actieplan ",
+          "description": "Stad Gent moet de uitstoot van broeikasgassen tot nul herleiden, ten laatste in 2050. Dit vraagt een ingrijpende verandering in de manier waarop we energie produceren, verdelen en gebruiken. Centraal hierin staat dat die verandering ook sociaal duurzaam moet zijn. ",
           "budget": {
             "years": [
               2026.0,
@@ -2602,7 +2602,7 @@
           "id": "OD20012",
           "title": "Realiseren van een groene en biodiverse stad 2026 - 2031 Groep Gent",
           "page": 113,
-          "description": "Gent is een gezonde en leefbare stad. Een stad waarin de Gentenaar, Gentgebruiker en Gentmaker recreëert, speelt, sport en ontspant in het openbaar groen. Een stad waar ruimte is voor fauna en flora en waar de natuurwaarde en biodiversiteit in stand worden gehouden en zelfs toenemen. Een stad die gewapend is tegen klimaatverandering door de aanwezigheid van voldoende groen dat de opwarming van de stad vermindert en zorgt voor voldoende infiltratie en het vasthouden van water, schaduw. Het Groenstructuurplan vormt de basis voor de verwezenlijking van een leefbare, biodiverse en klimaatrobuuste stad. We realiseren bereikbare, toegankelijke en kwaliteitsvolle woongroenzones, wijkparken en groenpolen waarin diverse functies een plaats krijgen. We zetten in op het verbinden en versterken van de natuur, onder andere door groenpolen te versterken, groenklimaatassen verder te realiseren en RUP Groen uit te voeren. We vergroenen de stad en planten meer bos aan. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 113 Via advies verzekeren we de realisatie van het Groenstructuurplan in zowel private als publieke ruimtelijke projecten. We actualiseren het Groenstructuurplan en andere visiedocumenten, zoals het soorten- en bomenbeleidsplan, en monitoren de vooruitgang. We zetten in op het verbeteren van het dierenwelzijn samen met erkende Gentse dierenverenigingen. We staan in voor de beheersing van plaagdieren, exoten en zwerfdieren in de stad. PR40977 - Aanleg wijkpark Bomastraat Groendienst PR41017 - Inrichten compensatiegebieden voor riet in Moervaartvallei Groendienst AC34239 - Opmaken, actualiseren en monitoren van de groenstructuur Groendienst AC35722 - Realiseren van een leefbare, biodiverse en klimaatrobuuste stad op basis van het Groenstructuurplan. Groendienst AC35723 - Realiseren nieuw openbaar groen, bos en natuur. Groendienst AC35724 - Verhogen van de biodiversiteit en het dierenwelzijn en inzetten op exotenbeleid en plaagdierbeheersing. Groendienst Actieplan ",
+          "description": "Gent is een gezonde en leefbare stad. Een stad waarin de Gentenaar, Gentgebruiker en Gentmaker recreëert, speelt, sport en ontspant in het openbaar groen. Een stad waar ruimte is voor fauna en flora en waar de natuurwaarde en biodiversiteit in stand worden gehouden en zelfs toenemen. Een stad die gewapend is tegen klimaatverandering door de aanwezigheid van voldoende groen dat de opwarming van de stad vermindert en zorgt voor voldoende infiltratie en het vasthouden van water, schaduw. Het Groenstructuurplan vormt de basis voor de verwezenlijking van een leefbare, biodiverse en klimaatrobuuste stad. We realiseren bereikbare, toegankelijke en kwaliteitsvolle woongroenzones, wijkparken en groenpolen waarin diverse functies een plaats krijgen. We zetten in op het verbinden en versterken van de natuur, onder andere door groenpolen te versterken, groenklimaatassen verder te realiseren en RUP Groen uit te voeren. We vergroenen de stad en planten meer bos aan. ",
           "budget": {
             "years": [
               2026.0,
@@ -2746,7 +2746,7 @@
           "id": "OD20013",
           "title": "Beheren, onderhouden en vernieuwen van openbaar groen 2026 - 2031 Groep Gent",
           "page": 115,
-          "description": "Een goed beheerd openbaar domein is een ruimte die goed beheerd wordt (veilig), die goed onderhouden is (we dragen zorg voor wat er al is, zodat het toegankelijk is) en die vernieuwd wordt (we gaan mee met de hedendaagse noden en vernieuwen, zo blijft de stad aantrekkelijk). We maken een onderscheid tussen beheren, onderhouden en (ver)nieuw(en). We organiseren een doelgericht beheer van het openbaar groen door te voorzien in heldere richtlijnen, beheerplannen en -systemen die onderhoud en vernieuwing mogelijk maken. We onderhouden bestaand openbaar groen door dit op een kwalitatief peil, toegankelijk en veilig te houden. Vormveranderingen blijven beperkt tot (op een hedendaagse manier) vervangen wat versleten is en het verwijderen van een overmaat van verharding zonder de bestaande (infra)structuur ingrijpend te veranderen. We controleren en onderhouden dagelijks het openbaar groen, bomen, paden, speel- en parkinfrastructuur volgens afgesproken kwaliteitsnormen. Waar nodig vernieuwen we het bestaande openbaar groen. We geven woongroenzones en wijkparken een herinrichting waarbij we inspelen op de noden van de buurt. Op die manier verhogen we de gebruiks- en belevingswaarde van deze groenzones. We richten groenzones of -perken in na ontharding in kader van een integrale heraanleg van bestaand openbaar domein, zoals wegeniswerken. We streven naar voldoende grote, robuuste en biodiverse groenzones of -perken waarbij (toekomst)bomen maximaal worden voorzien. We informeren de burgers over onze acties en motiveren de gemaakte keuzes. PR40221 - Opwaarderen Portaal Maaltebruggepark Groendienst PR40418 - Heraanleggen wijkpark Baudelohof Groendienst PR40869 - Herinrichting park Wasstraat Groendienst AC34220 - Bestrijden van plaagdieren en overlast van zwerfdieren Groendienst AC34230 - Beheren en onderhouden van openbaar groen Groendienst AC35725 - Beheren openbaar groen. Groendienst AC35726 - Onderhouden openbaar groen. Groendienst AC35727 - Herinrichten van bestaand openbaar groen en vergroenen bestaand openbaar domein. Groendienst OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 116 Actieplan ",
+          "description": "Een goed beheerd openbaar domein is een ruimte die goed beheerd wordt (veilig), die goed onderhouden is (we dragen zorg voor wat er al is, zodat het toegankelijk is) en die vernieuwd wordt (we gaan mee met de hedendaagse noden en vernieuwen, zo blijft de stad aantrekkelijk). We maken een onderscheid tussen beheren, onderhouden en (ver)nieuw(en). We organiseren een doelgericht beheer van het openbaar groen door te voorzien in heldere richtlijnen, beheerplannen en -systemen die onderhoud en vernieuwing mogelijk maken. We onderhouden bestaand openbaar groen door dit op een kwalitatief peil, toegankelijk en veilig te houden. Vormveranderingen blijven beperkt tot (op een hedendaagse manier) vervangen wat versleten is en het verwijderen van een overmaat van verharding zonder de bestaande (infra)structuur ingrijpend te veranderen. We controleren en onderhouden dagelijks het openbaar groen, bomen, paden, speel- en parkinfrastructuur volgens afgesproken kwaliteitsnormen. Waar nodig vernieuwen we het bestaande openbaar groen. We geven woongroenzones en wijkparken een herinrichting waarbij we inspelen op de noden van de buurt. Op die manier verhogen we de gebruiks- en belevingswaarde van deze groenzones. We richten groenzones of -perken in na ontharding in kader van een integrale heraanleg van bestaand openbaar domein, zoals wegeniswerken. We streven naar voldoende grote, robuuste en biodiverse groenzones of -perken waarbij (toekomst)bomen maximaal worden voorzien. We informeren de burgers over onze acties en motiveren de gemaakte keuzes. ",
           "budget": {
             "years": [
               2026.0,
@@ -2906,7 +2906,7 @@
           "id": "OD20015",
           "title": "Beperken van milieuverontreiniging om een gezonde stad te realiseren 2026 - 2031 Groep Gent",
           "page": 117,
-          "description": "We ondersteunen burgers en bedrijven bij hun projecten, ontwikkelingen en activiteiten. Daarbij toetsen we deze aan de wettelijke bepalingen en beoordelen we op geïntegreerde wijze van het bewustzijn en het vergroten van het draagvlak essentieel om structurele ingrepen mogelijk te maken. ",
+          "description": "We ondersteunen burgers en bedrijven bij hun projecten, ontwikkelingen en activiteiten. Daarbij toetsen we deze aan de wettelijke bepalingen en beoordelen we op geïntegreerde wijze ",
           "budget": {
             "years": [
               2026.0,
@@ -2998,7 +2998,7 @@
     },
     {
       "id": "SD20005",
-      "title": "Beleidsdoelstelling",
+      "title": "Armoedebestrijding",
       "page": 118,
       "budget": {
         "years": [
@@ -3049,7 +3049,7 @@
           "id": "OD20048",
           "title": "2026 - 2031 Groep Gent",
           "page": 119,
-          "description": "menswaardig kunnen leven Vanuit de regierol armoede realiseren we de opmaak en uitrol van een transversaal armoedebeleidsplan. Per sociaal grondrecht identificeren we welke beleidsacties op lokaal niveau bijdragen tot het bestrijden en voorkomen van armoede. We zetten die maatregelen in en monitoren het effect. Speerpunten hierbij zijn onder andere de proactieve rechtenverkenning, aanvullende financiële hulp, organiseren van materiële hulp, acties sociale mobiliteit, digitale inclusie en participatie aanmoedigen bij een zo divers mogelijke groep mensen in armoede. Armoede voorkomen en bestrijden doen we samen met interne en externe partners én de mensen in armoede. Actieplan Alle Gentse jongeren en gezinnen met kinderen in een kwetsbare situatie krijgen een ",
+          "description": "menswaardig kunnen leven Vanuit de regierol armoede realiseren we de opmaak en uitrol van een transversaal armoedebeleidsplan. Per sociaal grondrecht identificeren we welke beleidsacties op lokaal niveau bijdragen tot het bestrijden en voorkomen van armoede. We zetten die maatregelen in en monitoren het effect. Speerpunten hierbij zijn onder andere de proactieve rechtenverkenning, aanvullende financiële hulp, organiseren van materiële hulp, acties sociale mobiliteit, digitale inclusie en participatie aanmoedigen bij een zo divers mogelijke groep mensen in armoede. Armoede voorkomen en bestrijden doen we samen met interne en externe partners én de mensen in armoede. ",
           "budget": {
             "years": [
               2026.0,
@@ -3168,7 +3168,7 @@
           "id": "OD20050",
           "title": "2026 - 2031 Groep Gent",
           "page": 120,
-          "description": "situatie We nemen de wettelijke opdracht op om de sociale dienstverlening te verzekeren zodat alle burgers van Gent een menswaardig leven kunnen leiden. We hebben hierbij prioritaire aandacht voor de meest kwetsbare groepen en zetten actief in op het verkleinen van de non-take up. We blijven inzetten op een stabiele eerstelijnshulpverlening, afgestemd op de groei van het aantal cliënten. Het cliënteel van OCMW Gent blijft groeien onder andere door de bevolkingsgroei, migratie en de vermaatschappelijking van de zorg. Deze legislatuur komt daar de hervorming van de werkloosheid bij, die zal zorgen voor een extra instroom van cliënten. Samenwerking van eerste- en tweedelijnsdiensten garandeert een integrale hulpverlening. De wijkgerichte Welzijnsbureaus+ werken in tandem met psychologische en juridische ondersteuning en teams met expertise rond gezondheidszorg, medische kaart, wonen en energie. Daarnaast gaan we ook outreachend aan de slag: onze vindplaatsgerichte werking spoort Gentenaars op in een kwetsbare situatie, ook buiten onze welzijnsbureaus. De specifieke doelgroep dak- en thuislozen bereiken we met onze werking Thuislozenzorg. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 120 ACC2011 - Aanbieden van een outreachend en laagdrempelig onthaal in Welzijnsbureau Gent Zuid (hulpverleners/onthaal) Welzijnsbureau Gent Zuid ACC2110 - Aanbieden van maatgerichte hulp -en dienstverlening aan de kwetsbare Gentse burgers in Welzijnsbureau Gent Noord Welzijnsbureau Gent Noord (hulpverleners) ACC2111 - Aanbieden van een outreachend en laagdrempelig onthaal in Welzijnsbureau Gent Noord (hulpverleners/onthaal) Welzijnsbureau Gent Noord ACC2210 - Aanbieden van maatgerichte hulp -en dienstverlening aan de kwetsbare Gentse burgers in Welzijnsbureau Bloemekenswijk Welzijnsbureau Bloemekenswijk (hulpverleners) ACC2211 - Aanbieden van een outreachend en laagdrempelig onthaal in Welzijnsbureau Bloemekenswijk (hulpverleners/onthaal) Welzijnsbureau Bloemekenswijk ACC2310 - Aanbieden van maatgerichte hulp -en dienstverlening aan de kwetsbare Gentse burgers in Welzijnsbureau Brugse Poort Welzijnsbureau Brugse poort (hulpverleners) ACC2311 - Aanbieden van een outreachend en laagdrempelig onthaal in Welzijnsbureau Brugse Poort (hulpverleners/onthaal) Welzijnsbureau Brugse poort ACC2410 - Aanbieden van maatgerichte hulp -en dienstverlening aan de kwetsbare Gentse burgers in Welzijnsbureau Gentbrugge-Ledeberg Welzijnsbureau Gentbrugge - Ledeberg (hulpverleners) ACC2411 - Aanbieden van een outreachend en laagdrempelig onthaal in Welzijnsbureau Gentbrugge-Ledeberg (hulpverleners/onthaal) Welzijnsbureau Gentbrugge - Ledeberg ACC2510 - Aanbieden van maatgerichte hulp -en dienstverlening aan de kwetsbare Gentse burgers in Welzijnsbureau Sint-Amandsberg Welzijnsbureau Sint-Amandsberg (hulpverleners) ACC2511 - Aanbieden van een outreachend en laagdrempelig onthaal in Welzijnsbureau Sint-Amandsberg (hulpverleners/onthaal) Welzijnsbureau Sint-Amandsberg ACC2610 - Aanbieden van maatgerichte hulp -en dienstverlening aan de kwetsbare Gentse burgers in Welzijnsbureau Nieuw Gent Welzijnsbureau Nieuw Gent (hulpverleners) ACC2611 - Aanbieden van een outreachend en laagdrempelig onthaal in Welzijnsbureau Nieuw Gent (hulpverleners/onthaal) Welzijnsbureau Nieuw Gent ACC3010 - Aanbieden van maatgerichte hulp- en dienstverlening en huisvestingsgerichte oplossingen aan daklozen en woononstabiele mensen Thuislozenzorg ACC3012 - Aanbieden van een laagdrempelig en vindplaatsgericht aanspreekpunt voor dakloze en woononstabiele mensen Thuislozenzorg ACC3210 - Waarborgen van dringende medische hulp aan mensen met precair verblijf Gezondheidszorg ACC3211 - Aanbieden van hulp- en dienstverlening aan Gentse burgers met en financiële problemen ten gevolge van medische problematiek Gezondheidszorg ACD1013 - Organiseren strategische en financiële ondersteuning departement Dienst Lokaal sociaal beleid ACD1210 - Begeleiden van cliënten in kader van de Lokale adviescommissie (LAC) Energiecel ACD1211 - Geven van advies en ondersteuning aan cliënten en professionelen in kader van energie en rationeel energieverbruik om de Energiecel woonkwaliteit te verbeteren ACD1212 - Opnemen en onderzoeken van aanvragen Federale Verwarmingstoelage (stookolie) en Vlaamse Winterpremie (gas) en interne Energiecel winterpremie (elektriciteit) Actieplan ",
+          "description": "situatie We nemen de wettelijke opdracht op om de sociale dienstverlening te verzekeren zodat alle burgers van Gent een menswaardig leven kunnen leiden. We hebben hierbij prioritaire aandacht voor de meest kwetsbare groepen en zetten actief in op het verkleinen van de non-take up. We blijven inzetten op een stabiele eerstelijnshulpverlening, afgestemd op de groei van het aantal cliënten. Het cliënteel van OCMW Gent blijft groeien onder andere door de bevolkingsgroei, migratie en de vermaatschappelijking van de zorg. Deze legislatuur komt daar de hervorming van de werkloosheid bij, die zal zorgen voor een extra instroom van cliënten. Samenwerking van eerste- en tweedelijnsdiensten garandeert een integrale hulpverlening. De wijkgerichte Welzijnsbureaus+ werken in tandem met psychologische en juridische ondersteuning en teams met expertise rond gezondheidszorg, medische kaart, wonen en energie. Daarnaast gaan we ook outreachend aan de slag: onze vindplaatsgerichte werking spoort Gentenaars op in een kwetsbare situatie, ook buiten onze welzijnsbureaus. De specifieke doelgroep dak- en thuislozen bereiken we met onze werking Thuislozenzorg. ",
           "budget": {
             "years": [
               2026.0,
@@ -3260,7 +3260,7 @@
           "id": "OD20051",
           "title": "Verzekeren dat Gentenaars in een kwetsbare situatie een menswaardig inkomen hebben 2026 - 2031 Groep Gent",
           "page": 122,
-          "description": "Het OCMW heeft als opdracht om voor alle burgers een menswaardig bestaan te garanderen. Financiële steun geven is een van de belangrijkste beleidsinstrumenten om deze opdracht waar te maken. Het inkomen van Gentenaars dichter bij de armoedegrens brengen, doen we in de eerste plaats door middel van het leefloon en in tweede instantie door het systeem van OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 122 ",
+          "description": "Het OCMW heeft als opdracht om voor alle burgers een menswaardig bestaan te garanderen. Financiële steun geven is een van de belangrijkste beleidsinstrumenten om deze opdracht waar te maken. Het inkomen van Gentenaars dichter bij de armoedegrens brengen, doen we in de eerste plaats door middel van het leefloon en in tweede instantie door het systeem van ",
           "budget": {
             "years": [
               2026.0,
@@ -3311,7 +3311,7 @@
     },
     {
       "id": "SD20006",
-      "title": "Beleidsdoelstelling",
+      "title": "Welzijn, gezondheid en zorg",
       "page": 123,
       "budget": {
         "years": [
@@ -3362,7 +3362,7 @@
           "id": "OD20031",
           "title": "Bouwen aan kwalitatief en toekomstbestendig vastgoed voor zorg 2026 - 2031 Groep Gent",
           "page": 123,
-          "description": "We optimaliseren de huidige woonzorginfrastructuur en realiseren nieuwe woonzorgvormen. Zo maken we de Gentse wijken levensloopbestendig. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 123 We optimaliseren de huidige woonzorginfrastructuur en realiseren nieuwe woonzorgvormen. Zo maken we de Gentse wijken levensloopbestendig. ",
+          "description": "We optimaliseren de huidige woonzorginfrastructuur en realiseren nieuwe woonzorgvormen. Zo maken we de Gentse wijken levensloopbestendig. ",
           "budget": {
             "years": [
               2026.0,
@@ -3418,7 +3418,7 @@
           "id": "OD20052",
           "title": "Verhogen van toegang tot kwaliteitsvolle zorg- en welzijnsvoorzieningen 2026 - 2031 Groep Gent",
           "page": 124,
-          "description": "Elke Gentenaar waarvan de fysieke, psychische of sociale gezondheid in het gedrang komt, krijgt maximaal toegang tot aangepaste zorg- en dienstverlening om zo lang mogelijk kwaliteitsvol te kunnen blijven leven. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 124 ACK1010 - Aanbieden van psychologische en interculturele ondersteuning bij de dienstverlening in de lokale dienstencentra Coördinatie lokale dienstencentra ACK1100 - Organiseren interne werking Zelfstandig Wonen Zelfstandig wonen ACK1112 - Beheren groep van assistentiewoningen Antoniushof Zelfstandig wonen ACK1113 - Beheren seniorenwoningen Ten Hove Zelfstandig wonen ACK1114 - Beheren groep van assistentiewoningen Wibier Zelfstandig wonen ACK1115 - Beheren groep van assistentiewoningen 'De Zonnetuin' - Zwijnaarde Zelfstandig wonen ACK1116 - Regisseren zelfstandig wonen voor ouderen en ontwikkelen en realiseren van nieuwe woon- en welzijnsvormen voor ouderen Zelfstandig wonen ACK1118 - Beheren groepswonen Muide Bowoaters Zelfstandig wonen ACK1120 - Beheren Sociale Assistentiewoningen Botermarktpoort - Zonnewind Zelfstandig wonen ACK1210 - Aanbieden van advies, oriëntatie en opnamebegeleiding Dienst Beleidsondersteuning Gezondheid en Zorg ACK1211 - Verlenen van financiële tussenkomsten in de private woonzorgcentra en assistentiewoningen Dienst Beleidsondersteuning Gezondheid en Zorg ACW1010 - Aanbieden woonomgeving met hedendaagse zorg - woonzorgcentrum Het Heiveld Woonzorgcentrum Het Heiveld ACW1020 - Aanbieden van dagverzorging voor thuiswonende senioren Woonzorgcentrum Het Heiveld ACW1035 - Aanbieden van woonomgeving met hedendaagse zorg voor VAPH-bewoners woonzorgcentrum Het Heiveld Woonzorgcentrum Het Heiveld ACW1110 - Aanbieden woonomgeving met hedendaagse zorg - woonzorgcentrum De Liberteyt Woonzorgcentrum De Liberteyt ACW1135 - Aanbieden van een woonomgeving met hedendaagse zorg voor VAPH-bewoners woonzorgcentrum De Liberteyt Woonzorgcentrum De Liberteyt ACW1210 - Aanbieden van een woonomgeving met hedendaagse zorg - Woonzorgcentrum Zonnebloem Woonzorgcentrum Zonnebloem ACW1235 - Aanbieden van een woonomgeving met hedendaagse zorg aan VAPH-bewoners - woonzorgcentrum Zonnebloem Woonzorgcentrum Zonnebloem ACW1310 - Aanbieden woonomgeving met hedendaagse zorg - woonzorgcentrum De Vijvers Woonzorgcentrum De Vijvers ACW1335 - Aanbieden van een woonomgeving met hedendaagse zorg aan VAPH-bewoners - woonzorgcentrum De Vijvers Woonzorgcentrum De Vijvers ACW1410 - Aanbieden van een woonomgeving met hedendaagse zorg - Woonzorgcentrum Zuiderlicht Woonzorgcentrum Zuiderlicht ACW1435 - Aanbieden van een woonomgeving met hedendaagse zorg aan VAPH-bewoners - woonzorgcentrum Zuiderlicht Woonzorgcentrum Zuiderlicht Actieplan Bevorderen, beschermen en behouden van de fysieke, psychische en sociale gezondheid ",
+          "description": "Elke Gentenaar waarvan de fysieke, psychische of sociale gezondheid in het gedrang komt, krijgt maximaal toegang tot aangepaste zorg- en dienstverlening om zo lang mogelijk kwaliteitsvol te kunnen blijven leven. ",
           "budget": {
             "years": [
               2026.0,
@@ -3478,7 +3478,7 @@
           "id": "OD20053",
           "title": "2026 - 2031 Groep Gent",
           "page": 126,
-          "description": "van elke Gentenaar De fysieke, psychische en sociale gezondheid van elke Gentenaar bevorderen, beschermen en behouden. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 126 ACJ5610 - Aanbieden en ondersteunen activiteiten en ontmoeting lokaal dienstencentrum Speltincx Lokaal dienstencentrum Speltincx ACJ5710 - Aanbieden en ondersteunen activiteiten en ontmoeting lokaal dienstencentrum Ten Hove Lokaal dienstencentrum Ten Hove ACJ5810 - Aanbieden en ondersteunen activiteiten en ontmoeting lokaal dienstencentrum Wibier Lokaal dienstencentrum Wibier ACJ5910 - Aanbieden en ondersteunen activiteiten en ontmoeting lokaal dienstencentrum De Knoop Lokaal dienstencentrum De Knoop ACJ6010 - Aanbieden en ondersteunen activiteiten en ontmoeting lokaal dienstencentrum De Mantel Lokaal dienstencentrum De Mantel ACJ6110 - Aanbieden en ondersteunen van activiteiten en ontmoeting vanuit het lokaal dienstencentrum Oostakker Lokaal dienstencentrum Oostakker ACM1000 - Beheren van een ambulante, laagdrempelige, multidisciplinaire voorziening voor middelenverslaafden Medisch Sociaal Opvangcentrum ACR0010 - Bouwen aan een Leeftijdsvriendelijk Gent Dienst Regie Gezondheid en Zorg ACR0015 - Verbeteren van de gezondheid van alle Gentenaars Dienst Regie Gezondheid en Zorg ACR0016 - Verhogen van het mentaal welbevinden Dienst Regie Gezondheid en Zorg Actieplan Verduurzamen van de relaties met Gentenaars in een kwetsbare situatie en een fragiel ",
+          "description": "van elke Gentenaar De fysieke, psychische en sociale gezondheid van elke Gentenaar bevorderen, beschermen en behouden. ",
           "budget": {
             "years": [
               2026.0,
@@ -3570,7 +3570,7 @@
           "id": "OD20054",
           "title": "2026 - 2031 Groep Gent",
           "page": 128,
-          "description": "netwerk via ondersteuning bij (welzijns)noden We brengen de noden van Gentenaars in de meest kwetsbare situaties in kaart door in te zetten op laagdrempelige werkingen in hun leefwereld. We creëren en experimenteren met oplossingen op maat die het welzijn bevorderen. Voor specifieke doelgroepen organiseren we veilige havens. We gaan zowel preventief als curatief aan de slag en streven naar een betere levenskwaliteit, met oog voor harm reduction, menswaardige oplossingen, rechtenuitputting en toekomstoriëntering. De doelgroep is ruim en bestaat uit Belgen en niet-Belgen, Unieburgers en derdelanders, mensen met en zonder wettig verblijf. Er zijn mensen bij met een middelenverslaving, dakloze mensen, mobiele bewoners, jongeren. Door oplossingen-op-maat vangen we hiaten in systemen op, voorzien we continuïteit in de hulpverlening en voorkomen en genezen we samenlevingsproblemen. AC34520 - Beheren van het Stedelijk Opvanginitiatief en opvolgen van het thema vluchtelingen Dienst Asiel- en Vluchtelingen AC35000 - Organiseren interne werking Dienst Asiel- en Vluchtelingen Dienst Asiel- en Vluchtelingen ",
+          "description": "netwerk via ondersteuning bij (welzijns)noden We brengen de noden van Gentenaars in de meest kwetsbare situaties in kaart door in te zetten op laagdrempelige werkingen in hun leefwereld. We creëren en experimenteren met oplossingen op maat die het welzijn bevorderen. Voor specifieke doelgroepen organiseren we veilige havens. We gaan zowel preventief als curatief aan de slag en streven naar een betere levenskwaliteit, met oog voor harm reduction, menswaardige oplossingen, rechtenuitputting en toekomstoriëntering. De doelgroep is ruim en bestaat uit Belgen en niet-Belgen, Unieburgers en derdelanders, mensen met en zonder wettig verblijf. Er zijn mensen bij met een middelenverslaving, dakloze mensen, mobiele bewoners, jongeren. Door oplossingen-op-maat vangen we hiaten in systemen op, voorzien we continuïteit in de hulpverlening en voorkomen en genezen we samenlevingsproblemen. ",
           "budget": {
             "years": [
               2026.0,
@@ -3658,7 +3658,7 @@
     },
     {
       "id": "SD20007",
-      "title": "Beleidsdoelstelling",
+      "title": "Leren en groeien",
       "page": 129,
       "budget": {
         "years": [
@@ -3709,7 +3709,7 @@
           "id": "OD20028",
           "title": "2026 - 2031 Groep Gent",
           "page": 129,
-          "description": "leren In een groeiende stad moeten we inzetten op een gerichte uitbreiding of renovatie van voorzieningen binnen kinderopvang, buitenschoolse opvang, jeugd, vrijetijdsbesteding, leerplichtonderwijs, volwassenenonderwijs, deeltijds kunstonderwijs, gezinsondersteuning en jeugdzorg. Deze evoluties en de daaruit voortvloeiende projecten en activiteiten moeten afgestemd zijn op concrete prognoses per domein en wijk, met een helder ambitieniveau. Tegelijk streven we naar een slim, efficiënt en gedeeld gebruik van stedelijk patrimonium over de verschillende sectoren heen. Gezien de schaarste aan ruimte in de stad faciliteren we het maximaal gedeeld gebruik van infrastructuur binnen deze domeinen. We ontwikkelen multifunctionele plekken die wijkgericht OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 129 inspelen op de noden van kinderen, jongeren, gezinnen en volwassenen. Door voorzieningen slim te plannen en gedeeld te gebruiken, versterken we de leefkwaliteit in elke wijk en realiseren we een duurzaam, veerkrachtig netwerk van opgroei-, leer- en zorgomgevingen. PR41000 - DBFM \"Scholen van Vlaanderen\" - Site Jef Crickstraat Staf Departement Onderwijs, Opvoeding en Jeugd PR41021 - Optimaliseren van Basisschool en Buitenschoolse opvang De Muze, Begijnhofdries 42 Staf Departement Onderwijs, Opvoeding en Jeugd PR41022 - Renovatie museum Tuin Van Kina, Berouw 55 Staf Departement Onderwijs, Opvoeding en Jeugd PR41023 - Integrale aanpak sporthal Jan Yoens en Jeugdlokalen, Dracenastraat 8 Staf Departement Onderwijs, Opvoeding en Jeugd PR41024 - Renovatie BS De octopus, Oude blok, Drongensesteenweg 146 Staf Departement Onderwijs, Opvoeding en Jeugd PR41025 - Renovatie jeugdlokaal scouts De Woudloper, Gijzelstraat 12A Staf Departement Onderwijs, Opvoeding en Jeugd PR41026 - Renoveren BS Het Kompas, Ijskelderstraat 29 Staf Departement Onderwijs, Opvoeding en Jeugd PR41027 - Optimalisatie site Jubileumlaan 215 (KS/BO De Bollekens - KDV De Petteflat - CLB - CVO Gent - LSC Pilar) Staf Departement Onderwijs, Opvoeding en Jeugd PR41028 - Renovatie Instituut Bert Carlier - Het Nest, Krevelstraat 20 Staf Departement Onderwijs, Opvoeding en Jeugd PR41029 - Renovatie Kindcentrum Drakena, Onderstraat 10 Staf Departement Onderwijs, Opvoeding en Jeugd PR41030 - Renoveren daken en optimaliseren SKI Academie De Kunstbrug, Ottogracht 4 Staf Departement Onderwijs, Opvoeding en Jeugd PR41031 - Renovatie en optimaliseren site Bagattenstraat 155/Pollepelstraat 15/17 - Freinetschool/BO De Harp - Stedelijk Internaat Pollux - APK Staf Departement Onderwijs, Opvoeding en Jeugd PR41032 - Uitbreiding KDV Het Kriebelhuis, Peerstraat (verhuis KDV Sofie De Woelmuis) Staf Departement Onderwijs, Opvoeding en Jeugd PR41033 - Uitbreiden capaciteit SKI - Steendam Staf Departement Onderwijs, Opvoeding en Jeugd PR41034 - Huisvesten Hotelschool Gent Staf Departement Onderwijs, Opvoeding en Jeugd PR41035 - Renoveren BS De Stadspoort - KDV/BO Het Uilennestje - Aca De Kunstbrug, Coupure 52-54 Staf Departement Onderwijs, Opvoeding en Jeugd PR41036 - Optimaliseren scholen Campus Offerlaan Staf Departement Onderwijs, Opvoeding en Jeugd PR41037 - Onderzoek site Bevelandstraat Staf Departement Onderwijs, Opvoeding en Jeugd PR41061 - Uitbreiding op Triagla-site in functie van BS en BO de Piramide Staf Departement Onderwijs, Opvoeding en Jeugd PR41062 - Capaciteitsuitbreiding Freinetschool Het Eiland Staf Departement Onderwijs, Opvoeding en Jeugd PR41063 - Renovatieproject Krejo & JOC Gentbrugge Staf Departement Onderwijs, Opvoeding en Jeugd PR41064 - Renovatie chiro Totem (Sint-Kruis-Winkel) Staf Departement Onderwijs, Opvoeding en Jeugd PR41065 - Infrastructuur Chiro Ambo optimaliseren Staf Departement Onderwijs, Opvoeding en Jeugd PR41066 - KDV Ter Leie – inrichting nieuwe leefgroep Staf Departement Onderwijs, Opvoeding en Jeugd AC34988 - Organiseren van breed gebruik infrastructuur onderwijs, opvoeding en jeugd Staf Departement Onderwijs, Opvoeding en Jeugd AC35422 - Managen van de capaciteits- en ruimtevragen voor onderwijs, opvoeding en jeugd Staf Departement Onderwijs, Opvoeding en Jeugd Actieplan ",
+          "description": "leren In een groeiende stad moeten we inzetten op een gerichte uitbreiding of renovatie van voorzieningen binnen kinderopvang, buitenschoolse opvang, jeugd, vrijetijdsbesteding, leerplichtonderwijs, volwassenenonderwijs, deeltijds kunstonderwijs, gezinsondersteuning en jeugdzorg. Deze evoluties en de daaruit voortvloeiende projecten en activiteiten moeten afgestemd zijn op concrete prognoses per domein en wijk, met een helder ambitieniveau. Tegelijk streven we naar een slim, efficiënt en gedeeld gebruik van stedelijk patrimonium over de verschillende sectoren heen. Gezien de schaarste aan ruimte in de stad faciliteren we het maximaal gedeeld gebruik van infrastructuur binnen deze domeinen. We ontwikkelen multifunctionele plekken die wijkgericht ",
           "budget": {
             "years": [
               2026.0,
@@ -3933,7 +3933,7 @@
           "id": "OD20042",
           "title": "Versterken van de kwalitatieve en toegankelijke kinderopvang tot 3 jaar 2026 - 2031 Groep Gent",
           "page": 131,
-          "description": "Gent bouwt haar voortrekkersrol op vlak van kwaliteit en toegankelijkheid verder uit. We breiden het aanbod aan betaalbare kinderopvang uit. Elk kind verdient een goede start in het leven en OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 131 elke ouder moet kunnen werken of opleidings- en tewerkstellingskansen kunnen grijpen. Als organisator zetten we in op innovatie om de kwaliteit en toegankelijkheid te versterken. We investeren doelbewust in de wijken met een lage (sociale) dekkingsgraad en streven daar een sociale mix na. Naast het economische belang plaatsen we het pedagogische en sociale belang van kinderopvang voorop door de toegang voor kansengroepen te waarborgen. De sleutel ligt bij voldoende gekwalificeerd en competent personeel en een divers beroepenkader. We zetten kansen en loopbaanpaden op in samenwerking met onderwijs, arbeidsmarkt en sociale partners. Voldoende geschikte infrastructuur in een dense stad blijft eveneens een uitdaging. We versterken de regierol, met als motor het Lokaal Overleg Kinderopvang (LOK). Via concrete steunmaatregelen en projecten versterken we private kinderopvanginitiatieven om de uitdagingen in de sector aan te pakken. We ondersteunen ouders in het zoeken naar een opvangplaats door het verder organiseren van het KinderOpvangpunt Gent, partner in het Groeiteam. ",
+          "description": "Gent bouwt haar voortrekkersrol op vlak van kwaliteit en toegankelijkheid verder uit. We breiden het aanbod aan betaalbare kinderopvang uit. Elk kind verdient een goede start in het leven en ",
           "budget": {
             "years": [
               2026.0,
@@ -4005,7 +4005,7 @@
           "id": "OD20043",
           "title": "Versterken van het Stedelijk Onderwijs Gent 2026 - 2031 Groep Gent",
           "page": 132,
-          "description": "Stedelijk Onderwijs Gent positioneert zich als een toonaangevend en maatschappelijk geëngageerd onderwijs dat systematisch inzet op brede leer- en ontwikkelingskansen. Vertrekkend vanuit een sterk verankerde waardenbasis – creativiteit en innovatie, diversiteit, participatie, maximale kansen en duurzaamheid – realiseren we een kwalitatief, samenhangend, transversaal onderwijsaanbod dat maatschappelijk responsief is. We ambiëren een structurele rol in het versterken van de sociale cohesie en gelijke onderwijskansen in de stad. We ontwikkelen een gedifferentieerd en kwaliteitsvol aanbod, complementair en in afstemming met andere onderwijsnetten, en met bijzondere aandacht voor regionale verankering en beleidsmatige coherentie. Binnen het eigen net bouwen we aan een doorlopende en geïntegreerde leerloopbaan waarin basisonderwijs, secundair onderwijs, buitengewoon onderwijs, volwassenenonderwijs, duaal leren en deeltijds kunstonderwijs strategisch op elkaar aansluiten. Deze netoverschrijdende afstemming wordt gefaciliteerd via synergiën en gedeeld leiderschap tussen entiteiten. Dit wordt ondersteund door innovatieve werkvormen, multidisciplinaire samenwerking en gedeelde beleidskaders. Stedelijk Onderwijs Gent ziet partnerschap als een hefboom voor innovatie en impact. We engageren ons in strategische allianties met externe onderwijsactoren, stadsdiensten en het bredere middenveld. We oriënteren ons beleid voortdurend op maatschappelijke transities, met een scherp oog voor beleidsmatige opportuniteiten, noden op het terrein en signalen uit de bredere stedelijke context. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 132 ",
+          "description": "Stedelijk Onderwijs Gent positioneert zich als een toonaangevend en maatschappelijk geëngageerd onderwijs dat systematisch inzet op brede leer- en ontwikkelingskansen. Vertrekkend vanuit een sterk verankerde waardenbasis – creativiteit en innovatie, diversiteit, participatie, maximale kansen en duurzaamheid – realiseren we een kwalitatief, samenhangend, transversaal onderwijsaanbod dat maatschappelijk responsief is. We ambiëren een structurele rol in het versterken van de sociale cohesie en gelijke onderwijskansen in de stad. We ontwikkelen een gedifferentieerd en kwaliteitsvol aanbod, complementair en in afstemming met andere onderwijsnetten, en met bijzondere aandacht voor regionale verankering en beleidsmatige coherentie. Binnen het eigen net bouwen we aan een doorlopende en geïntegreerde leerloopbaan waarin basisonderwijs, secundair onderwijs, buitengewoon onderwijs, volwassenenonderwijs, duaal leren en deeltijds kunstonderwijs strategisch op elkaar aansluiten. Deze netoverschrijdende afstemming wordt gefaciliteerd via synergiën en gedeeld leiderschap tussen entiteiten. Dit wordt ondersteund door innovatieve werkvormen, multidisciplinaire samenwerking en gedeelde beleidskaders. Stedelijk Onderwijs Gent ziet partnerschap als een hefboom voor innovatie en impact. We engageren ons in strategische allianties met externe onderwijsactoren, stadsdiensten en het bredere middenveld. We oriënteren ons beleid voortdurend op maatschappelijke transities, met een scherp oog voor beleidsmatige opportuniteiten, noden op het terrein en signalen uit de bredere stedelijke context. ",
           "budget": {
             "years": [
               2026.0,
@@ -4113,7 +4113,7 @@
           "id": "OD20044",
           "title": "Organiseren van een kwaliteitsvolle kinddag 2026 - 2031 Groep Gent",
           "page": 133,
-          "description": "We zetten in op een kwaliteitsvolle kinddag op school- en vakantiedagen met geïntegreerde samenwerking tussen onderwijs, opvang en vrijetijdspartners. We grijpen het brede netwerk van diensten, organisaties en mensen in de wijk aan om in te zetten op de brede ontwikkelingskansen voor alle kinderen en jongeren (participatief). We beschouwen de stedelijke omgeving als leerkans; als brede, ervaringsgerichte leeromgeving voor iedereen. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 133 Het Vlaamse BOA decreet (Buitenschoolse Opvang en Activiteiten) waarbij de lokale overheid de regierol opneemt, verruimt en versterkt het huidige aanbod voor kinderen van 3-12 jaar, met bijzondere aandacht voor kleuters en kinderen met een specifieke ondersteuningsbehoefte. We streven naar een kwalitatief en gebiedsdekkend aanbod tijdens schooljaar en vakantie. Zowel in haar rol als organisator van de buitenschoolse opvang, Brede Schoolwerking, (vakantie)opvang, speelpleinwerking als in haar regierol buitenschoolse opvang en activiteiten (ook vakantieaanbod) zet Stad Gent verder in op concrete ondersteuning en samenwerking met een brede groep stakeholders, lokaal en bovenlokaal. Deze samenwerking resulteert in een duurzaam aanbod buitenschoolse opvang en activiteiten rond kansrijk en gezond opgroeien, opvoeden en leren voor kinderen, jongeren en (hun) gezinnen. ",
+          "description": "We zetten in op een kwaliteitsvolle kinddag op school- en vakantiedagen met geïntegreerde samenwerking tussen onderwijs, opvang en vrijetijdspartners. We grijpen het brede netwerk van diensten, organisaties en mensen in de wijk aan om in te zetten op de brede ontwikkelingskansen voor alle kinderen en jongeren (participatief). We beschouwen de stedelijke omgeving als leerkans; als brede, ervaringsgerichte leeromgeving voor iedereen. ",
           "budget": {
             "years": [
               2026.0,
@@ -4189,7 +4189,7 @@
           "id": "OD20045",
           "title": "Versterken van de actoren in onderwijs 2026 - 2031 Groep Gent",
           "page": 134,
-          "description": "We versterken alle actoren in het onderwijsveld: scholen, leerkrachten, ouders, leerlingen. De ondersteuning richt zich op grootstedelijke thema’s, zoals armoede, diversiteit en meertaligheid. We versterken ook het partnerschap tussen scholen en gezinnen via de brugfigurenwerking, die we de komende jaren verder uitbreiden. Een optimaal leer- en ontwikkeltraject wordt vormgegeven en ondersteund door verschillende actoren. Dit vindt plaats in een grootstedelijke context, binnen en buiten de school(m)uren en in de gezinscontext. Het behelst verschillende levensfases van kinderen en jongeren. Start bij het voorschoolse en resulteert in het maximaal behalen van een kwalificatie. Dit vergt een afgestemde en geïntegreerde aanpak met verschillende actoren uit verschillende beleidsdomeinen. De school, het gezin, de wijk waarin ze wonen, zijn ankerplekken waarbij we emancipatorisch en versterkend kunnen werken zodat iedereen zich kan ontplooien tot bewuste, zelfstandige en zelfredzame burgers in onze stad en maatschappij. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 134 ",
+          "description": "We versterken alle actoren in het onderwijsveld: scholen, leerkrachten, ouders, leerlingen. De ondersteuning richt zich op grootstedelijke thema’s, zoals armoede, diversiteit en meertaligheid. We versterken ook het partnerschap tussen scholen en gezinnen via de brugfigurenwerking, die we de komende jaren verder uitbreiden. Een optimaal leer- en ontwikkeltraject wordt vormgegeven en ondersteund door verschillende actoren. Dit vindt plaats in een grootstedelijke context, binnen en buiten de school(m)uren en in de gezinscontext. Het behelst verschillende levensfases van kinderen en jongeren. Start bij het voorschoolse en resulteert in het maximaal behalen van een kwalificatie. Dit vergt een afgestemde en geïntegreerde aanpak met verschillende actoren uit verschillende beleidsdomeinen. De school, het gezin, de wijk waarin ze wonen, zijn ankerplekken waarbij we emancipatorisch en versterkend kunnen werken zodat iedereen zich kan ontplooien tot bewuste, zelfstandige en zelfredzame burgers in onze stad en maatschappij. ",
           "budget": {
             "years": [
               2026.0,
@@ -4281,7 +4281,7 @@
           "id": "OD20060",
           "title": "Versterken van de kwaliteit en toegankelijkheid van jeugd(werk)initiatieven 2026 - 2031 Groep Gent",
           "page": 135,
-          "description": "We zetten in op sterk jeugd(welzijns)werk. We willen het aanbod verder versterken, door te ondersteunen op financieel, inhoudelijk, logistiek en op vlak van infrastructuur. Ook jongeren die zelf een initiatief willen opstarten, worden ondersteund. Daarnaast ondersteunen we ook heel wat (zelf)organisaties om een aanbod te voorzien. Het jeugdwerk met maatschappelijk kwetsbare kinderen en jongeren wordt versterkt. Er wordt verder ingezet op de blinde vlekken. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 135 ",
+          "description": "We zetten in op sterk jeugd(welzijns)werk. We willen het aanbod verder versterken, door te ondersteunen op financieel, inhoudelijk, logistiek en op vlak van infrastructuur. Ook jongeren die zelf een initiatief willen opstarten, worden ondersteund. Daarnaast ondersteunen we ook heel wat (zelf)organisaties om een aanbod te voorzien. Het jeugdwerk met maatschappelijk kwetsbare kinderen en jongeren wordt versterkt. Er wordt verder ingezet op de blinde vlekken. ",
           "budget": {
             "years": [
               2026.0,
@@ -4341,7 +4341,7 @@
           "id": "OD20102",
           "title": "Inzetten op een integraal en participatief beleid voor kinderen, jongeren en studenten 2026 - 2031 Groep Gent",
           "page": 136,
-          "description": "We organiseren participatie van kinderen, jongeren én studenten bij beleidsbeslissingen en versterken communities rond verschillende thema’s of doelgroepen. We focussen op kruispunten met andere beleidsdomeinen (zoals publieke ruimte, nightlife, mobiliteit, samenleven, welzijn of urban culture) en zetten in op samenwerking, netwerken, kennisopbouw, dataverzameling en belangenbehartiging binnen en buiten de stadsorganisatie. We koppelen dit aan concrete acties met of voor de doelgroep die kaderen binnen dit integrale jeugd-of studentenbeleid (zoals bloklocaties, buitenspeeldag, interventies in de publieke ruimte). AC34400 - Ondersteunen van projecten en evenementen van studenten en jongeren Jeugddienst Actieplan ",
+          "description": "We organiseren participatie van kinderen, jongeren én studenten bij beleidsbeslissingen en versterken communities rond verschillende thema’s of doelgroepen. We focussen op kruispunten met andere beleidsdomeinen (zoals publieke ruimte, nightlife, mobiliteit, samenleven, welzijn of urban culture) en zetten in op samenwerking, netwerken, kennisopbouw, dataverzameling en belangenbehartiging binnen en buiten de stadsorganisatie. We koppelen dit aan concrete acties met of voor de doelgroep die kaderen binnen dit integrale jeugd-of studentenbeleid (zoals bloklocaties, buitenspeeldag, interventies in de publieke ruimte). ",
           "budget": {
             "years": [
               2026.0,
@@ -4465,7 +4465,7 @@
           "id": "OD20104",
           "title": "Organiseren van natuureducatie op maat van kinderen 2026 - 2031 Groep Gent",
           "page": 137,
-          "description": "Op diverse plekken in Gent ontdekken en beleven kinderen de natuur en het boerderijleven in school-of vrijetijdsverband. Op interactieve wijze krijgen ze bewondering en respect voor natuur en dier. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 137 ",
+          "description": "Op diverse plekken in Gent ontdekken en beleven kinderen de natuur en het boerderijleven in school-of vrijetijdsverband. Op interactieve wijze krijgen ze bewondering en respect voor natuur en dier. ",
           "budget": {
             "years": [
               2026.0,
@@ -4533,7 +4533,7 @@
           "id": "OD20105",
           "title": "Versterken van de geïntegreerde zorg voor alle betrokkenen op school 2026 - 2031 Groep Gent",
           "page": 138,
-          "description": "Het zorgcontinuüm beschrijft de organisatie van zorg binnen onderwijs. Scholen organiseren een onderwijs- en leeromgeving aangepast aan alle leerlingen. Ze zijn zelf verantwoordelijk voor een kwaliteitsvol beleid met betrekking tot leerlingenbegeleiding, met een bijzondere aandacht voor een sterke brede basiszorg en verhoogde zorg (fase 0 en 1 van het zorgcontinuüm). Wanneer ook verhoogde zorg onvoldoende tegemoetkomt aan de noden van een individuele leerling, dan schakelt de school het Centrum voor Leerlingenbegeleiding (CLB) in via uitbreiding van zorg (fase 2). Het CLB helpt onafhankelijk en in vertrouwen leerlingen, ouders en scholen in het basis- en secundair onderwijs bij leerproblemen, studiekeuze, psychische en sociale problemen, zoals pesterijen, problemen thuis en faalangst. Het volgt ook de gezondheid van de leerlingen op. In een derde fase kan ook het Leersteuncentrum ingeschakeld worden. Het Leersteuncentrum heeft zowel een decretale opdracht voor leerlingen met specifieke onderwijsbehoeften, als voor leerkrachten en schoolteams. Naast de zorg op school, staan CLB en Leersteuncentrum in voor flankerend, ondersteunend en versterkend werken aan geïntegreerde zorg. Plan ",
+          "description": "Het zorgcontinuüm beschrijft de organisatie van zorg binnen onderwijs. Scholen organiseren een onderwijs- en leeromgeving aangepast aan alle leerlingen. Ze zijn zelf verantwoordelijk voor een kwaliteitsvol beleid met betrekking tot leerlingenbegeleiding, met een bijzondere aandacht voor een sterke brede basiszorg en verhoogde zorg (fase 0 en 1 van het zorgcontinuüm). Wanneer ook verhoogde zorg onvoldoende tegemoetkomt aan de noden van een individuele leerling, dan schakelt de school het Centrum voor Leerlingenbegeleiding (CLB) in via uitbreiding van zorg (fase 2). Het CLB helpt onafhankelijk en in vertrouwen leerlingen, ouders en scholen in het basis- en secundair onderwijs bij leerproblemen, studiekeuze, psychische en sociale problemen, zoals pesterijen, problemen thuis en faalangst. Het volgt ook de gezondheid van de leerlingen op. In een derde fase kan ook het Leersteuncentrum ingeschakeld worden. Het Leersteuncentrum heeft zowel een decretale opdracht voor leerlingen met specifieke onderwijsbehoeften, als voor leerkrachten en schoolteams. Naast de zorg op school, staan CLB en Leersteuncentrum in voor flankerend, ondersteunend en versterkend werken aan geïntegreerde zorg. ",
           "budget": {
             "years": [
               2026.0,
@@ -4605,7 +4605,7 @@
     },
     {
       "id": "SD20008",
-      "title": "Beleidsdoelstelling",
+      "title": "Inclusie",
       "page": 139,
       "budget": {
         "years": [
@@ -4656,7 +4656,7 @@
           "id": "OD20056",
           "title": "Bevorderen van gelijke kansen voor elke Gentenaar en Gent-gebruiker 2026 - 2031 Groep Gent",
           "page": 139,
-          "description": "We maken van Gent de meest inclusieve stad van de wereld. Een stad met gelijke kansen voor élke Gentenaar waar iedereen zich thuis voelt. De werking gelijke kansen vertrekt vanuit het principe van kruispuntdenken en focust op de uitsluitingsgronden handicap, afkomst, seksuele oriëntatie en genderidentiteit. We maken de Gentse samenleving en dienstverlening toegankelijker door actief te luisteren naar de mensen die dagelijks uitsluiting ervaren. Hun perspectieven vormen de basis voor het bijsturen van onze stedelijke diensterlening. We hanteren hierbij het Universal Design-principe. Gebouwen moeten integraal toegankelijk zijn voor alle Gentenaars. We werken aan een toegankelijke publieke dienstverlening en stimuleren het gebruik van heldere taal die alle mensen begrijpen. Naast het wegwerken van drempels zetten we ook in op het versterken van mensen en gemeenschappen. We bestrijden uitsluiting en discriminatie via dialoog, samenwerking met het middenveld, vorming, wetenschappelijk onderzoek en het actief ondersteunen van slachtoffers. We bouwen aan een stad waar iedereen zichzelf kan zijn en zich veilig voelt. Samen zijn we allemaal Gent. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 139 We maken van Gent de meest inclusieve stad van de wereld. Een stad met gelijke kansen voor élke Gentenaar waar iedereen zich thuis voelt. De werking gelijke kansen vertrekt vanuit het principe van kruispuntdenken en focust op de uitsluitingsgronden handicap, afkomst, seksuele oriëntatie en genderidentiteit. We maken de Gentse samenleving en dienstverlening toegankelijker door actief te luisteren naar de mensen die dagelijks uitsluiting ervaren. Hun perspectieven vormen de basis voor het bijsturen van onze stedelijke diensterlening. We hanteren hierbij het Universal Design-principe. Gebouwen moeten integraal toegankelijk zijn voor alle Gentenaars. We werken aan een toegankelijke publieke dienstverlening en stimuleren het gebruik van heldere taal die alle mensen begrijpen. Naast het wegwerken van drempels zetten we ook in op het versterken van mensen en gemeenschappen. We bestrijden uitsluiting en discriminatie via dialoog, samenwerking met het middenveld, vorming, wetenschappelijk onderzoek en het actief ondersteunen van slachtoffers. We bouwen aan een stad waar iedereen zichzelf kan zijn en zich veilig voelt. Samen zijn we allemaal Gent. ",
+          "description": "We maken van Gent de meest inclusieve stad van de wereld. Een stad met gelijke kansen voor élke Gentenaar waar iedereen zich thuis voelt. De werking gelijke kansen vertrekt vanuit het principe van kruispuntdenken en focust op de uitsluitingsgronden handicap, afkomst, seksuele oriëntatie en genderidentiteit. We maken de Gentse samenleving en dienstverlening toegankelijker door actief te luisteren naar de mensen die dagelijks uitsluiting ervaren. Hun perspectieven vormen de basis voor het bijsturen van onze stedelijke diensterlening. We hanteren hierbij het Universal Design-principe. Gebouwen moeten integraal toegankelijk zijn voor alle Gentenaars. We werken aan een toegankelijke publieke dienstverlening en stimuleren het gebruik van heldere taal die alle mensen begrijpen. Naast het wegwerken van drempels zetten we ook in op het versterken van mensen en gemeenschappen. We bestrijden uitsluiting en discriminatie via dialoog, samenwerking met het middenveld, vorming, wetenschappelijk onderzoek en het actief ondersteunen van slachtoffers. We bouwen aan een stad waar iedereen zichzelf kan zijn en zich veilig voelt. Samen zijn we allemaal Gent. ",
           "budget": {
             "years": [
               2026.0,
@@ -4740,7 +4740,7 @@
     },
     {
       "id": "SD20009",
-      "title": "Beleidsdoelstelling",
+      "title": "Wijk en burger",
       "page": 140,
       "budget": {
         "years": [
@@ -4863,7 +4863,7 @@
           "id": "PO20005",
           "title": "Programma Bloemekenswijk en FNO-site 2026 - 2031 Groep Gent",
           "page": 141,
-          "description": "Met het stadsvernieuwingsprogramma Bloemekenswijk en FNO-site zetten we in op het verhogen van de leefkwaliteit van de Bloemekenswijk. We zetten daarbij in op het creëren van meerwaarde voor de wijk bij de ontwikkeling van de UCO-site als sterk vergroende sociale economiezone, van de FNO-site als verwegen gemengde stedelijke site, van de sociale woonsite op Jan Yoens, van de sportsite Dracuna, van het Psychiatrisch Centrum Guislain, van de Westerbegraafplaats, het Westeringspoor en vele kleinere sociale en private ontwikkelingen. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 141 ",
+          "description": "Met het stadsvernieuwingsprogramma Bloemekenswijk en FNO-site zetten we in op het verhogen van de leefkwaliteit van de Bloemekenswijk. We zetten daarbij in op het creëren van meerwaarde voor de wijk bij de ontwikkeling van de UCO-site als sterk vergroende sociale economiezone, van de FNO-site als verwegen gemengde stedelijke site, van de sociale woonsite op Jan Yoens, van de sportsite Dracuna, van het Psychiatrisch Centrum Guislain, van de Westerbegraafplaats, het Westeringspoor en vele kleinere sociale en private ontwikkelingen. ",
           "budget": {
             "years": [
               2026.0,
@@ -4999,7 +4999,7 @@
           "id": "PO20008",
           "title": "Programma En Route 2026 - 2031 Groep Gent",
           "page": 143,
-          "description": "Met het stadsvernieuwingsprogramma En Route focust Stad Gent op strategische plekken in de wijken Dampoort en Sint-Amandsberg. Op deze plekken is er plaats voor vernieuwende initiatieven. We doen dit samen met de buurtbewoners en lokale verenigingen. We verbeteren pleinen, parken en gebouwen. Maar ook het sociale, culturele en economische leven krijgen aandacht. We zoeken naar manieren om zoveel mogelijk in te zetten op het combineren van de 6 thema's van En Route: goed wonen, een bloeiende economie, duurzame mobiliteit, meer groen, samenleven en cocreatie met de buurt. Actieplan ",
+          "description": "Met het stadsvernieuwingsprogramma En Route focust Stad Gent op strategische plekken in de wijken Dampoort en Sint-Amandsberg. Op deze plekken is er plaats voor vernieuwende initiatieven. We doen dit samen met de buurtbewoners en lokale verenigingen. We verbeteren pleinen, parken en gebouwen. Maar ook het sociale, culturele en economische leven krijgen aandacht. We zoeken naar manieren om zoveel mogelijk in te zetten op het combineren van de 6 thema's van En Route: goed wonen, een bloeiende economie, duurzame mobiliteit, meer groen, samenleven en cocreatie met de buurt. ",
           "budget": {
             "years": [
               2026.0,
@@ -5151,7 +5151,7 @@
           "id": "PO20012",
           "title": "Programma Nieuw Gent Vernieuwt 2026 - 2031 Groep Gent",
           "page": 144,
-          "description": "Het stadsvernieuwingsprogramma Nieuw Gent Vernieuwt focust op de wijk Nieuw Gent en op het verhogen van de leefkwaliteit voor haar bewoners. Het programma werkt hierbij aan verschillende prioriteiten: het vervangen van de sociale hoogbouwwoningen door nieuwbouw, de heraanleg van het openbaar domein, het inzetten op kwetsbare bewoners, het voorzien van voldoende vrijetijdsaanbod, het activeren en laten participeren van bewoners. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 144 ",
+          "description": "Het stadsvernieuwingsprogramma Nieuw Gent Vernieuwt focust op de wijk Nieuw Gent en op het verhogen van de leefkwaliteit voor haar bewoners. Het programma werkt hierbij aan verschillende prioriteiten: het vervangen van de sociale hoogbouwwoningen door nieuwbouw, de heraanleg van het openbaar domein, het inzetten op kwetsbare bewoners, het voorzien van voldoende vrijetijdsaanbod, het activeren en laten participeren van bewoners. ",
           "budget": {
             "years": [
               2026.0,
@@ -5227,7 +5227,7 @@
           "id": "PO20017",
           "title": "Programma The Loop 2026 - 2031 Groep Gent",
           "page": 145,
-          "description": "Plan ",
+          "description": "",
           "budget": {
             "years": [
               2026.0,
@@ -5351,7 +5351,7 @@
           "id": "PO20027",
           "title": "Programma Verhogen leefkwaliteit in Sluizeken Tolhuis Ham 2026 - 2031 Groep Gent",
           "page": 146,
-          "description": "OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 146 Met het stadsvernieuwingsprogramma voor de wijk Sluizeken-Tolhuis-Ham wil Stad Gent de leefbaarheid in de wijk verhogen via sociaal-culturele, economische en ruimtelijke ingrepen. Het programma omvat het herwaarderen van de publieke ruimte, het optimaliseren van het zorg- en welzijnsaanbod en de toegankelijkheid ervan, het inzetten op kwalitatief wonen met specifieke aandacht voor de hernieuwing van sociale huisvesting en omgeving en het tegengaan van gentrificatie, het versterken van de sociale cohesie en de sociaal-economische positie van de wijkbewoners. ",
+          "description": "",
           "budget": {
             "years": [
               2026.0,
@@ -5411,7 +5411,7 @@
           "id": "PO20100",
           "title": "Programma werken aan de Watersportbaan 2026 - 2031 Groep Gent",
           "page": 147,
-          "description": "Met het stadsvernieuwingsprogramma Werken aan de Watersportbaan wil Stad Gent van het gebied rond de Watersportbaan een duurzame, klimaatrobuuste, groene en aantrekkelijke woon- en recreatieomgeving maken waar bewoners zich ondersteund voelen en kansen krijgen, sport verbindend werkt en waarbinnen bovenlokale en lokale functies elkaar aanvullen en versterken. Plan ",
+          "description": "Met het stadsvernieuwingsprogramma Werken aan de Watersportbaan wil Stad Gent van het gebied rond de Watersportbaan een duurzame, klimaatrobuuste, groene en aantrekkelijke woon- en recreatieomgeving maken waar bewoners zich ondersteund voelen en kansen krijgen, sport verbindend werkt en waarbinnen bovenlokale en lokale functies elkaar aanvullen en versterken. ",
           "budget": {
             "years": [
               2026.0,
@@ -5467,7 +5467,7 @@
           "id": "OD20067",
           "title": "Versterken en verbinden van sociale netwerken 2026 - 2031 Groep Gent",
           "page": 148,
-          "description": "We verbeteren het samenleven en de sociale cohesie in superdiverse Gentse buurten door kansen tot ontmoeting tussen bewoners en groepen te faciliteren of – wanneer deze niet spontaan ontstaan – zelf te organiseren. We identificeren in de publieke ruimte sociale kruispunten en brengen er diverse groepen met elkaar in contact, met speciale aandacht voor de moeilijk bereikbare doelgroepen of doelgroepen in een kwetsbare situatie. We zetten in op dialoog tussen bewoners en verbinden sociale netwerken (bridging), buurtinitiatieven en buurtpartners. We doen dit onder meer door gedeelde plekken te organiseren en participatief aan de slag te gaan met bewoners en partners. Actieplan Afstemmen van het beleid op de impact op het globale Zuiden en aanmoedigen van ",
+          "description": "We verbeteren het samenleven en de sociale cohesie in superdiverse Gentse buurten door kansen tot ontmoeting tussen bewoners en groepen te faciliteren of – wanneer deze niet spontaan ontstaan – zelf te organiseren. We identificeren in de publieke ruimte sociale kruispunten en brengen er diverse groepen met elkaar in contact, met speciale aandacht voor de moeilijk bereikbare doelgroepen of doelgroepen in een kwetsbare situatie. We zetten in op dialoog tussen bewoners en verbinden sociale netwerken (bridging), buurtinitiatieven en buurtpartners. We doen dit onder meer door gedeelde plekken te organiseren en participatief aan de slag te gaan met bewoners en partners. ",
           "budget": {
             "years": [
               2026.0,
@@ -5603,7 +5603,7 @@
           "id": "OD20072",
           "title": "Verstevigen van de lokale stadsbrede participatieve praktijk voor alle Gentenaars 2026 - 2031 Groep Gent",
           "page": 149,
-          "description": "Participatie en co-creatie zijn niet langer aparte projecten, maar een vast onderdeel van de stedelijke cultuur en besluitvorming. Burgers, organisaties, academici en bedrijven zetten initiatieven in gang, dragen ideeën aan en werken mee aan oplossingen voor stedelijke uitdagingen. Het stadsbestuur wil participatie breed, inclusief en representatief verankeren, zowel rond transversale thema’s en beleid als in de dagelijkse werking. Daarbij wordt ook aandacht besteed aan de stille meerderheid: Gentenaars die minder zichtbaar zijn in participatieve processen, maar die een belangrijke stem hebben in het stedelijk beleid. Door toegankelijke participatievormen en innovatieve methodieken in te zetten, zorgen we ervoor dat meer Gentenaars zich kunnen engageren. Het Loket Gent aan Zet wordt een toegankelijk aanspreekpunt dat ontmoeting en engagement stimuleert. Het ondersteunt bewoners, verenigingen en partners om hun ideeën en initiatieven voor de stad te realiseren en versterkt zo de brug tussen participatie en actief burgerschap. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 149 ",
+          "description": "Participatie en co-creatie zijn niet langer aparte projecten, maar een vast onderdeel van de stedelijke cultuur en besluitvorming. Burgers, organisaties, academici en bedrijven zetten initiatieven in gang, dragen ideeën aan en werken mee aan oplossingen voor stedelijke uitdagingen. Het stadsbestuur wil participatie breed, inclusief en representatief verankeren, zowel rond transversale thema’s en beleid als in de dagelijkse werking. Daarbij wordt ook aandacht besteed aan de stille meerderheid: Gentenaars die minder zichtbaar zijn in participatieve processen, maar die een belangrijke stem hebben in het stedelijk beleid. Door toegankelijke participatievormen en innovatieve methodieken in te zetten, zorgen we ervoor dat meer Gentenaars zich kunnen engageren. Het Loket Gent aan Zet wordt een toegankelijk aanspreekpunt dat ontmoeting en engagement stimuleert. Het ondersteunt bewoners, verenigingen en partners om hun ideeën en initiatieven voor de stad te realiseren en versterkt zo de brug tussen participatie en actief burgerschap. ",
           "budget": {
             "years": [
               2026.0,
@@ -5747,7 +5747,7 @@
     },
     {
       "id": "SD20010",
-      "title": "Beleidsdoelstelling",
+      "title": "Cultuur, sport en vrije tijd",
       "page": 151,
       "budget": {
         "years": [
@@ -5854,7 +5854,7 @@
           "id": "OD20029",
           "title": "Bouwen aan een diverse, kwalitatieve en toekomstbestendige sportinfrastructuur 2026 - 2031 Groep Gent",
           "page": 152,
-          "description": "We investeren in de kwaliteit, kwantiteit en de exploitatie van de sportinfrastructuur, zowel in bestaande als nieuwe. We zorgen voor een ruim aanbod, dat bovendien divers is, zodat zowel individuen als clubs kunnen bewegen en sporten. Gezien de demografische stijging kijken we naar een slim gebruik van de beschikbare ruimte door: • In kaart brengen van onderbenutte (school)sportinfrastructuur • Gedeeld gebruik van accommodaties met andere of gelijkaardige functies • Koppeling met stadsvernieuwings-, nieuwbouw-, of masterprojecten OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 152 ",
+          "description": "We investeren in de kwaliteit, kwantiteit en de exploitatie van de sportinfrastructuur, zowel in bestaande als nieuwe. We zorgen voor een ruim aanbod, dat bovendien divers is, zodat zowel individuen als clubs kunnen bewegen en sporten. Gezien de demografische stijging kijken we naar een slim gebruik van de beschikbare ruimte door: • In kaart brengen van onderbenutte (school)sportinfrastructuur • Gedeeld gebruik van accommodaties met andere of gelijkaardige functies • Koppeling met stadsvernieuwings-, nieuwbouw-, of masterprojecten ",
           "budget": {
             "years": [
               2026.0,
@@ -6054,7 +6054,7 @@
           "id": "OD20058",
           "title": "Realiseren van een inclusief en nabij sport- en beweegaanbod 2026 - 2031 Groep Gent",
           "page": 154,
-          "description": "We willen zoveel mogelijk Gentenaars aanzetten tot sporten en bewegen. Hierbij willen we voldoen aan de vraag van zowel zij die individueel sporten als in clubverband. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 154 ",
+          "description": "We willen zoveel mogelijk Gentenaars aanzetten tot sporten en bewegen. Hierbij willen we voldoen aan de vraag van zowel zij die individueel sporten als in clubverband. ",
           "budget": {
             "years": [
               2026.0,
@@ -6126,7 +6126,7 @@
           "id": "OD20061",
           "title": "2026 - 2031 Groep Gent",
           "page": 155,
-          "description": "toegankelijkheid en participatie Onze gebouwen zijn door hun historische context een bezoek op zich waard, via bijkomende investeringen zal het museumaanbod nog beter tot zijn recht komen. We willen de komende jaren verkennen op welke manier digitale toepassingen ingezet kunnen worden ter versterking van de beleving. Toegankelijkheid en de mogelijkheid tot participeren kent eveneens een infrastructurele component. Via publiekswerking wordt geïnvesteerd in toegankelijkheid voor specifieke doelgroepen. UiTPAS blijft een belangrijk instrument voor kansarme doelgroepen. Voor doelgroepen in een kwetsbare situatie werken we gepaste formules uit. Door te investeren in digitale toegankelijkheid bieden we de mogelijkheid om nog meer collecties raadpleegbaar te maken. Op vele verschillende manieren en telkens passend in het kader van elk afzonderlijk museum, wordt de erfgoedgemeenschap en de maatschappij betrokken bij verschillende facetten van de werking. Outreachwerking, cocreatie, dialoog over het beleid zijn voorbeelden van werkinstrumenten die hierbij worden ingezet. We bouwen verder aan onze financiële gezondheid door nog actiever op zoek te gaan naar aanvullende financieringsbronnen. Enerzijds afzonderlijk, passend bij de identiteit van elk museum. Anderzijds maken we werk van een gezamenlijke marketing en communicatie waarmee we Gent als museumstad profileren. We willen zo meer betalende bezoekers aantrekken en op gezamenlijk niveau verkennen wat het potentieel is aan bijkomende inkomsten. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 155 ",
+          "description": "toegankelijkheid en participatie Onze gebouwen zijn door hun historische context een bezoek op zich waard, via bijkomende investeringen zal het museumaanbod nog beter tot zijn recht komen. We willen de komende jaren verkennen op welke manier digitale toepassingen ingezet kunnen worden ter versterking van de beleving. Toegankelijkheid en de mogelijkheid tot participeren kent eveneens een infrastructurele component. Via publiekswerking wordt geïnvesteerd in toegankelijkheid voor specifieke doelgroepen. UiTPAS blijft een belangrijk instrument voor kansarme doelgroepen. Voor doelgroepen in een kwetsbare situatie werken we gepaste formules uit. Door te investeren in digitale toegankelijkheid bieden we de mogelijkheid om nog meer collecties raadpleegbaar te maken. Op vele verschillende manieren en telkens passend in het kader van elk afzonderlijk museum, wordt de erfgoedgemeenschap en de maatschappij betrokken bij verschillende facetten van de werking. Outreachwerking, cocreatie, dialoog over het beleid zijn voorbeelden van werkinstrumenten die hierbij worden ingezet. We bouwen verder aan onze financiële gezondheid door nog actiever op zoek te gaan naar aanvullende financieringsbronnen. Enerzijds afzonderlijk, passend bij de identiteit van elk museum. Anderzijds maken we werk van een gezamenlijke marketing en communicatie waarmee we Gent als museumstad profileren. We willen zo meer betalende bezoekers aantrekken en op gezamenlijk niveau verkennen wat het potentieel is aan bijkomende inkomsten. ",
           "budget": {
             "years": [
               2026.0,
@@ -6202,7 +6202,7 @@
           "id": "OD20063",
           "title": "2026 - 2031 Groep Gent",
           "page": 156,
-          "description": "optimaal ondersteunde cultuur-, kunst- en erfgoedsector Via structurele subsidies wordt de artistieke ruggengraat van de cultuursector (culturele huizen, gezelschappen en festivals) ondersteund. Op basis van projectmatige subsidies worden nieuwe initiatieven in kunst, cultuur en erfgoed ondersteund, ook van individuele kunstenaars. Waar relevant worden eigen culturele projecten georganiseerd die vernieuwing exploreren en Plan ",
+          "description": "optimaal ondersteunde cultuur-, kunst- en erfgoedsector Via structurele subsidies wordt de artistieke ruggengraat van de cultuursector (culturele huizen, gezelschappen en festivals) ondersteund. Op basis van projectmatige subsidies worden nieuwe initiatieven in kunst, cultuur en erfgoed ondersteund, ook van individuele kunstenaars. Waar relevant worden eigen culturele projecten georganiseerd die vernieuwing exploreren en ",
           "budget": {
             "years": [
               2026.0,
@@ -6326,7 +6326,7 @@
           "id": "OD20064",
           "title": "Uitbouwen van een bibliotheekwerking vanuit de demografische noden van de stad 2026 - 2031 Groep Gent",
           "page": 157,
-          "description": "Steeds meer Gentenaars hebben niet het Nederlands als thuistaal (1): dit heeft implicaties voor onze collectie, programmatie en educatieve activiteiten. We versterken de kinderen- en jongerenwerking (2) gezien het groeiende aantal gezinnen. Er is meer aandacht nodig voor de infrastructuur van de wijkbibliotheken, zodat we toegankelijk (3) blijven voor iedereen. Voor veel Gentenaars is de digitalisering een uitdaging (4): we bouwen deze werking verder uit, met o.a. het Digitaal Talenpunt en digitale studieondersteuning, maar ook met Krookpartners Imec, UGent en VormingPlus. De Krook blijft een huis van kennis en cultuur voor iedereen, met de Bibliotheek als motor van het Gentse Letterenbeleid. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 157 ",
+          "description": "Steeds meer Gentenaars hebben niet het Nederlands als thuistaal (1): dit heeft implicaties voor onze collectie, programmatie en educatieve activiteiten. We versterken de kinderen- en jongerenwerking (2) gezien het groeiende aantal gezinnen. Er is meer aandacht nodig voor de infrastructuur van de wijkbibliotheken, zodat we toegankelijk (3) blijven voor iedereen. Voor veel Gentenaars is de digitalisering een uitdaging (4): we bouwen deze werking verder uit, met o.a. het Digitaal Talenpunt en digitale studieondersteuning, maar ook met Krookpartners Imec, UGent en VormingPlus. De Krook blijft een huis van kennis en cultuur voor iedereen, met de Bibliotheek als motor van het Gentse Letterenbeleid. ",
           "budget": {
             "years": [
               2026.0,
@@ -6402,7 +6402,7 @@
           "id": "OD20066",
           "title": "2026 - 2031 Groep Gent",
           "page": 158,
-          "description": "ondersteunen van kwaliteitsvolle evenementen, markten en foren in de publieke ruimte We organiseren en ondersteunen kwaliteitsvolle evenementen, feesten, markten en foren in de publieke ruimte, rekening houdend met de leefbaarheid van de stad. We werken hiervoor een sterk en evenwichtig evenementenbeleid uit. We organiseren evenementen om de uitstraling van Gent als levendige stad te bevestigen en om de sociale cohesie te versterken. Om de drie jaar organiseren we een kwalitatief Lichtfestival met aandacht voor participatie door Gentenaars en samenwerkingen met lokale jongeren, kunstenaars en organisatoren. We organiseren jaarlijkse lokale en bovenlokale evenementen, in de stad en de wijken, aangepast aan de noden van een levendige en diverse stad. We treden op als coördinator voor grootschalige evenementen zoals de Gentse Feesten en waken over een inhoudelijke vernieuwing. We ondersteunen evenementen en feesten van derden (in de publieke ruimte) zowel administratief (vergunning), financieel (subsidies) als logistiek (uitleenpunt). Administratief: We streven naar een efficiënt vergunningsproces en bepalen de omgevingsimpact via het afwegingskader. We implementeren een gebruiksvriendelijk digitaal evenementenloket voor alle aanvragen voor evenementen, feesten, markten en foren op het openbaar domein. Financieel: we kennen subsidies toe op basis van de kernwaarden van Stad Gent. Logistiek: we beheren het materiaal vakkundig en ontlenen doelmatig materiaal aan organisatoren. We investeren in kwalitatief materiaal en degelijk opgeleid personeel. We staan garant voor een divers aanbod aan ambulante handel, goed georganiseerde en aantrekkelijke markten en foren. We ontwikkelen een nieuw marktreglement en organiseren, initiëren, beheren en controleren ambulante handel, markten en foren. We gaan samenwerkingsverbanden aan voor de promotie en opwaardering van de markten en foren in Gent. We begeleiden en ondersteunen filmmakers in Gent bij hun vergunningsaanvraag. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 158 ",
+          "description": "ondersteunen van kwaliteitsvolle evenementen, markten en foren in de publieke ruimte We organiseren en ondersteunen kwaliteitsvolle evenementen, feesten, markten en foren in de publieke ruimte, rekening houdend met de leefbaarheid van de stad. We werken hiervoor een sterk en evenwichtig evenementenbeleid uit. We organiseren evenementen om de uitstraling van Gent als levendige stad te bevestigen en om de sociale cohesie te versterken. Om de drie jaar organiseren we een kwalitatief Lichtfestival met aandacht voor participatie door Gentenaars en samenwerkingen met lokale jongeren, kunstenaars en organisatoren. We organiseren jaarlijkse lokale en bovenlokale evenementen, in de stad en de wijken, aangepast aan de noden van een levendige en diverse stad. We treden op als coördinator voor grootschalige evenementen zoals de Gentse Feesten en waken over een inhoudelijke vernieuwing. We ondersteunen evenementen en feesten van derden (in de publieke ruimte) zowel administratief (vergunning), financieel (subsidies) als logistiek (uitleenpunt). Administratief: We streven naar een efficiënt vergunningsproces en bepalen de omgevingsimpact via het afwegingskader. We implementeren een gebruiksvriendelijk digitaal evenementenloket voor alle aanvragen voor evenementen, feesten, markten en foren op het openbaar domein. Financieel: we kennen subsidies toe op basis van de kernwaarden van Stad Gent. Logistiek: we beheren het materiaal vakkundig en ontlenen doelmatig materiaal aan organisatoren. We investeren in kwalitatief materiaal en degelijk opgeleid personeel. We staan garant voor een divers aanbod aan ambulante handel, goed georganiseerde en aantrekkelijke markten en foren. We ontwikkelen een nieuw marktreglement en organiseren, initiëren, beheren en controleren ambulante handel, markten en foren. We gaan samenwerkingsverbanden aan voor de promotie en opwaardering van de markten en foren in Gent. We begeleiden en ondersteunen filmmakers in Gent bij hun vergunningsaanvraag. ",
           "budget": {
             "years": [
               2026.0,
@@ -6482,7 +6482,7 @@
     },
     {
       "id": "SD20011",
-      "title": "Beleidsdoelstelling",
+      "title": "Economie en werk",
       "page": 159,
       "budget": {
         "years": [
@@ -6613,7 +6613,7 @@
           "id": "OD20006",
           "title": "Stimuleren en uitbouwen van Gent als aantrekkelijke bestemming en belevingsstad 2026 - 2031 Groep Gent",
           "page": 160,
-          "description": "We kiezen ervoor om van Gent een bruisende, levendige en leefbare stad te maken, met toekomstgerichte handel, horeca en toeristische voorzieningen, die een meerwaarde bieden voor OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 160 Gentenaars en Gentgebruikers. Naast een stimuleringsprogramma voor levendige kernwinkelgebieden, zorgen we voor voldoende, kwaliteitsvolle lokale voorzieningen, vanuit het concept van de 15-minuten-stad. Via onze kanalen promoten we Gent als authentieke bestemmings- en belevingsstad naar de buitenwereld, waarbij we mikken op een spreiding van bezoekers en toeristen over tijd en ruimte, o.a. door de verdere ontwikkeling van congrestoerisme en overnachtingen in Gent te stimuleren. We hebben oog voor neveneffecten die het draagvlak bij Gentenaars voor toerisme, horeca en nightlife kunnen ondermijnen, en nemen maatregelen, in overleg met de sector, om die tegen te ",
+          "description": "We kiezen ervoor om van Gent een bruisende, levendige en leefbare stad te maken, met toekomstgerichte handel, horeca en toeristische voorzieningen, die een meerwaarde bieden voor ",
           "budget": {
             "years": [
               2026.0,
@@ -6685,7 +6685,7 @@
           "id": "OD20039",
           "title": "2026 - 2031 Groep Gent",
           "page": 161,
-          "description": "versterken en bedrijven te ondersteunen We investeren in talentontwikkeling en duurzame inzetbaarheid voor een arbeidsmarkt waarin zowel economische groei als individuele groei centraal staat. Wendbare en goed ontwikkelde werknemers versterken niet alleen hun eigen werkzekerheid, maar dragen ook bij aan een aantrekkelijk ondernemersklimaat, hogere productiviteit en een sterke lokale economie. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 161 ",
+          "description": "versterken en bedrijven te ondersteunen We investeren in talentontwikkeling en duurzame inzetbaarheid voor een arbeidsmarkt waarin zowel economische groei als individuele groei centraal staat. Wendbare en goed ontwikkelde werknemers versterken niet alleen hun eigen werkzekerheid, maar dragen ook bij aan een aantrekkelijk ondernemersklimaat, hogere productiviteit en een sterke lokale economie. ",
           "budget": {
             "years": [
               2026.0,
@@ -6833,7 +6833,7 @@
           "id": "OD20041",
           "title": "2026 - 2031 Groep Gent",
           "page": 163,
-          "description": "lokale werkgevers We beogen een sociale en inclusieve economie die ervoor zorgt dat ook Gentenaars met specifieke drempels toegang krijgen tot de arbeidsmarkt en zowel economisch als maatschappelijk een bijdrage kunnen leveren. Daarbij zijn niet alleen sociale economiebedrijven in scope, ook reguliere bedrijven bieden werkgelegenheid aan werkzoekenden met een afstand tot de arbeidsmarkt en werken op die manier mee aan een inclusieve arbeidsmarkt. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 163 ",
+          "description": "lokale werkgevers We beogen een sociale en inclusieve economie die ervoor zorgt dat ook Gentenaars met specifieke drempels toegang krijgen tot de arbeidsmarkt en zowel economisch als maatschappelijk een bijdrage kunnen leveren. Daarbij zijn niet alleen sociale economiebedrijven in scope, ook reguliere bedrijven bieden werkgelegenheid aan werkzoekenden met een afstand tot de arbeidsmarkt en werken op die manier mee aan een inclusieve arbeidsmarkt. ",
           "budget": {
             "years": [
               2026.0,
@@ -6917,7 +6917,7 @@
           "id": "OD20113",
           "title": "Faciliteren, sturen en stimuleren van ruimtelijke economische ontwikkelingen 2026 - 2031 Groep Gent",
           "page": 164,
-          "description": "We voorzien economische ruimte en bieden zo toekomstperspectief aan bestaande en nieuwe economische sectoren en actoren in Gent. Hierdoor stimuleren we groei in werkgelegenheid, OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 164 innovatie en ondernemerschap en zorgen we voor bruisende stadswijken. We monitoren op regelmatige basis de economische ruimtevraag- en aanbod voor verschillende sectoren, om zo onze economische groei te kunnen blijven huisvesten. Dit doen we door o.a. de ontwikkeling van bedrijventerreinen, het stimuleren van herontwikkelingen van onderbenutte sites en economie te verweven binnen het stadsweefsel. Samen met ontwikkelaars, ruimtezoekers en via matchmaking faciliteren we het juiste bedrijf op de juiste plaats. Door een actief landbouwgrondenbeleid willen we de transitie naar duurzame toekomstgerichte landbouw stimuleren, met aandacht voor startende landbouwondernemers. We zijn een partner van North Sea Port in de verdere economische ontwikkeling van de Gentse haven. We stimuleren economische basisvoorzieningen in elke wijk, vanuit de 15-minuten-stad. ",
+          "description": "We voorzien economische ruimte en bieden zo toekomstperspectief aan bestaande en nieuwe economische sectoren en actoren in Gent. Hierdoor stimuleren we groei in werkgelegenheid, ",
           "budget": {
             "years": [
               2026.0,
@@ -6989,7 +6989,7 @@
     },
     {
       "id": "SD20012",
-      "title": "Beleidsdoelstelling",
+      "title": "Veiligheid, preventie en netheid",
       "page": 166,
       "budget": {
         "years": [
@@ -7040,7 +7040,7 @@
           "id": "OD20019",
           "title": "Verhogen van de netheid van de stad 2026 - 2031 Groep Gent",
           "page": 166,
-          "description": "Stad Gent zet deze legislatuur (25-30) extra in op handhaving van sluikstorten en zwerfvuil, samen met verhoging van de netheid met flexibele netheidsploegen op piekmomenten. We streven naar een eenheid van aansturing voor zowel interne als externe partners en doen dit door de beschikbare middelen met interne en externe partners zo efficiënt mogelijk in te zetten, om de netheid te monitoren en om flexibel de verschillende processen (opruimen, preventie en sensibilisering, handhaving) bij te sturen indien nodig. Maar ook om de gevolgkosten bij uitbreiding of aanleg van het openbaar domein te voorspellen. Het doel is om de netheid binnen de stad op te krikken en dus tot een uitgewerkt scenario te komen rond netheid- en afvalbeleid met zichtbare resultaten op het terrein. Daarbij volgen we IVAGO op als uitvoerder van het beleid op vlak van netheid, milieu en klimaat. Actieplan Duurzaam en integraal aanpakken van overlast, samenlevings- en veiligheidsproblemen en ",
+          "description": "Stad Gent zet deze legislatuur (25-30) extra in op handhaving van sluikstorten en zwerfvuil, samen met verhoging van de netheid met flexibele netheidsploegen op piekmomenten. We streven naar een eenheid van aansturing voor zowel interne als externe partners en doen dit door de beschikbare middelen met interne en externe partners zo efficiënt mogelijk in te zetten, om de netheid te monitoren en om flexibel de verschillende processen (opruimen, preventie en sensibilisering, handhaving) bij te sturen indien nodig. Maar ook om de gevolgkosten bij uitbreiding of aanleg van het openbaar domein te voorspellen. Het doel is om de netheid binnen de stad op te krikken en dus tot een uitgewerkt scenario te komen rond netheid- en afvalbeleid met zichtbare resultaten op het terrein. Daarbij volgen we IVAGO op als uitvoerder van het beleid op vlak van netheid, milieu en klimaat. ",
           "budget": {
             "years": [
               2026.0,
@@ -7184,7 +7184,7 @@
           "id": "OD20070",
           "title": "Opvolgen van de veiligheids- en hulpverleningsdiensten 2026 - 2031 Groep Gent",
           "page": 168,
-          "description": "We zorgen voor een correcte, tijdige en volledige opvolging en rapportering van de financiële stromen van en naar de Politie en Brandweerzone Centrum, in afstemming met hen, met het oog OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 168 op transparantie over de besteding van middelen aan de politie en de brandweerzone. ",
+          "description": "We zorgen voor een correcte, tijdige en volledige opvolging en rapportering van de financiële stromen van en naar de Politie en Brandweerzone Centrum, in afstemming met hen, met het oog ",
           "budget": {
             "years": [
               2026.0,
@@ -7248,7 +7248,7 @@
           "id": "OD20115",
           "title": "2026 - 2031 Groep Gent",
           "page": 169,
-          "description": "versterken van Gentenaars en eerstelijnswerkers We voorkomen, beperken, herstellen en handhaven overlast, samenlevings- en veiligheidsproblemen. Dit doen we door Gentenaars en eerstelijnswerkers via preventieacties en advies te versterken in het omgaan met conflicten en spanningen in de publieke ruimte én door bemiddeling en coaching bij individuele conflicten (o.a. horeca, studenten en buren). We focussen op drugs, afval, seksueel grensoverschrijdend gedrag, intrafamiliaal geweld, radicalisering en polarisatie. We beperken overlast op openbaar domein door toezicht, motiveren burgers om regels na te leven en melden vervuiling (o.a. sluikstorten, zwerfvuil, graffiti), defecten (aan straatinfrastructuur) en sociale problemen aan bevoegde diensten. We doen dit zowel proactief als reactief na melding van burgers of diensten. We adviseren burgers om preventietips toe te passen zodat ze minder slachtoffer worden van actuele criminaliteitsfenomenen (o.a. fietsdiefstal). We controleren gericht op overlastlocaties en -problemen (vnl. sluikstorten) en handhaven overtredingen van politiereglementen categorie GAS 1 met opmaak van bestuurlijke verslagen. Plan ",
+          "description": "versterken van Gentenaars en eerstelijnswerkers We voorkomen, beperken, herstellen en handhaven overlast, samenlevings- en veiligheidsproblemen. Dit doen we door Gentenaars en eerstelijnswerkers via preventieacties en advies te versterken in het omgaan met conflicten en spanningen in de publieke ruimte én door bemiddeling en coaching bij individuele conflicten (o.a. horeca, studenten en buren). We focussen op drugs, afval, seksueel grensoverschrijdend gedrag, intrafamiliaal geweld, radicalisering en polarisatie. We beperken overlast op openbaar domein door toezicht, motiveren burgers om regels na te leven en melden vervuiling (o.a. sluikstorten, zwerfvuil, graffiti), defecten (aan straatinfrastructuur) en sociale problemen aan bevoegde diensten. We doen dit zowel proactief als reactief na melding van burgers of diensten. We adviseren burgers om preventietips toe te passen zodat ze minder slachtoffer worden van actuele criminaliteitsfenomenen (o.a. fietsdiefstal). We controleren gericht op overlastlocaties en -problemen (vnl. sluikstorten) en handhaven overtredingen van politiereglementen categorie GAS 1 met opmaak van bestuurlijke verslagen. ",
           "budget": {
             "years": [
               2026.0,
@@ -7316,7 +7316,7 @@
     },
     {
       "id": "SD20013",
-      "title": "Beleidsdoelstelling",
+      "title": "Dienstverlening",
       "page": 170,
       "budget": {
         "years": [
@@ -7455,7 +7455,7 @@
           "id": "OD20076",
           "title": "2026 - 2031 Groep Gent",
           "page": 171,
-          "description": "veilige digitale dienstverlening We experimenteren met de mogelijkheden van AI en automatisatie. We realiseren cyberveilige, en inclusieve IT applicaties. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 171 ",
+          "description": "veilige digitale dienstverlening We experimenteren met de mogelijkheden van AI en automatisatie. We realiseren cyberveilige, en inclusieve IT applicaties. ",
           "budget": {
             "years": [
               2026.0,
@@ -7515,7 +7515,7 @@
           "id": "OD20077",
           "title": "Verzekeren van een kwalitatieve en proactieve dienstverlening van burgerzaken 2026 - 2031 Groep Gent",
           "page": 172,
-          "description": "Onze dienstverlening staat dicht bij de burger, is persoonlijk, op maat en maximaal digitaal. We informeren burgers duidelijk en actief over onze producten, wettelijke taken en bewaken de kwaliteit van onze dienstverlening. We zetten in op omnikanale dienstverlening, zodat elke burger vlot geholpen wordt – zowel aan het loket, telefonisch, via e-mail als via digitale kanalen. We zetten in op goed opgeleide medewerkers en maken gebruik van moderne digitale tools, zodat informatie en antwoorden snel, correct en helder kunnen gegeven worden. Plan ",
+          "description": "Onze dienstverlening staat dicht bij de burger, is persoonlijk, op maat en maximaal digitaal. We informeren burgers duidelijk en actief over onze producten, wettelijke taken en bewaken de kwaliteit van onze dienstverlening. We zetten in op omnikanale dienstverlening, zodat elke burger vlot geholpen wordt – zowel aan het loket, telefonisch, via e-mail als via digitale kanalen. We zetten in op goed opgeleide medewerkers en maken gebruik van moderne digitale tools, zodat informatie en antwoorden snel, correct en helder kunnen gegeven worden. ",
           "budget": {
             "years": [
               2026.0,
@@ -7587,7 +7587,7 @@
           "id": "OD20078",
           "title": "2026 - 2031 Groep Gent",
           "page": 173,
-          "description": "verbindt en stimuleert Stad Gent werkt aan een communicatieve organisatie die professioneel, samenhangend en toekomstgericht is. Dit betekent dat we burgers en medewerkers kwaliteitsvol informeren, actief PR40935 - Meldingen: creëren en implementeren van een stadsbrede visie voor de intake, registratie en verwerking van burgermeldingen: Dienst Publiekszaken Afhandeling project AC34552 - Organiseren publiekscommunicatie, digitale marketing en mediabeheer Dienst Communicatie AC34612 - Organiseren interne communicatie en vormen van netwerk binnen Groep Gent Dienst Communicatie AC34848 - Organiseren servicedesk en interne werking Dienst Communicatie Dienst Communicatie AC35161 - Organiseren marketingcommunicatie en publiekscampagnes Dienst Communicatie AC35435 - Organiseren creatieve studio en beeldmanagement Dienst Communicatie ACP1000 - Organiseren servicedesk en interne werking Dienst Communicatie Dienst Communicatie ACP1011 - Organiseren interne communicatie en vormen van netwerk binnen Groep Gent Dienst Communicatie ACP1013 - Organiseren marketingcommunicatie en publiekscampagnes Dienst Communicatie ",
+          "description": "verbindt en stimuleert Stad Gent werkt aan een communicatieve organisatie die professioneel, samenhangend en toekomstgericht is. Dit betekent dat we burgers en medewerkers kwaliteitsvol informeren, actief ",
           "budget": {
             "years": [
               2026.0,
@@ -7671,7 +7671,7 @@
     },
     {
       "id": "SD20014",
-      "title": "Beleidsdoelstelling",
+      "title": "Organisatie",
       "page": 174,
       "budget": {
         "years": [
@@ -7722,7 +7722,7 @@
           "id": "PO20053",
           "title": "Masterproject Logistieke huisvesting 2026 - 2031 Groep Gent",
           "page": 174,
-          "description": "We beogen en grondige hervorming van de logistieke werking van Stad Gent door het samenbrengen van logistieke diensten in 7 stadsdepots en 5 HUBS, verspreid over het grondgebied. Zo realiseren we een reductie van 39 naar 12 locaties en een efficiëntere inzet van middelen, ruimte, mensen en materiaal. Oude en verspreide infrastructuur kan worden afgestoten, huurcontracten worden stopgezet en er ontstaat meer synergie tussen diensten. We investeren in veilige, duurzame en toekomstgerichte werkplekken. Zowel nieuwbouw als renovatieprojecten zorgen ervoor dat gebouwen beantwoorden aan de actuele normen en Het plan is gedragen door de betrokken diensten en verankerd in de duurzaamheidsdoelstellingen van Stad Gent. Het is een financieel gezond en ambitieus project dat inzet op centralisatie waar dit praktisch haalbaar is, digitalisering ten dienste van de werking, en een maximale synergie tussen diensten. ",
+          "description": "We beogen en grondige hervorming van de logistieke werking van Stad Gent door het samenbrengen van logistieke diensten in 7 stadsdepots en 5 HUBS, verspreid over het grondgebied. Zo realiseren we een reductie van 39 naar 12 locaties en een efficiëntere inzet van middelen, ruimte, mensen en materiaal. Oude en verspreide infrastructuur kan worden afgestoten, huurcontracten worden stopgezet en er ontstaat meer synergie tussen diensten. We investeren in veilige, duurzame en toekomstgerichte werkplekken. Zowel nieuwbouw als renovatieprojecten zorgen ervoor dat gebouwen beantwoorden aan de actuele normen en ",
           "budget": {
             "years": [
               2026.0,
@@ -7826,7 +7826,7 @@
           "id": "OD20027",
           "title": "Maximaal maatschappelijk bestemmen en gebruiken van vastgoed 2026 - 2031 Groep Gent",
           "page": 175,
-          "description": "Ons vastgoed helpt een groot aantal beleidsdoelstellingen realiseren. Door vraag en aanbod te verbinden maximaliseren we de maatschappelijke meerwaarde van ons stedelijk vastgoed, 1. Onze voorzieningen zijn nabij & integraal toegankelijk voor alle Gentenaars en Gentgebruikers. 2. Door meervoudig efficiënt ruimtegebruik kunnen we zoveel mogelijk ruimtevragen koppelen aan ons vastgoedaanbod. 3. Een kwalitatief & toekomstbestendig vastgoed garandeert een maximaal gebruik. ",
+          "description": "Ons vastgoed helpt een groot aantal beleidsdoelstellingen realiseren. Door vraag en aanbod te verbinden maximaliseren we de maatschappelijke meerwaarde van ons stedelijk vastgoed, ",
           "budget": {
             "years": [
               2026.0,
@@ -7994,7 +7994,7 @@
           "id": "OD20079",
           "title": "Verhogen van de datagedreven beleidsvoorbereiding en -evaluatie 2026 - 2031 Groep Gent",
           "page": 177,
-          "description": "We evolueren naar een strategisch georiënteerde werking van Stad Gent. We maken een betere koppeling tussen ambities en middelen. We stemmen de prioriteiten van de organisatie continu af op de wijzigende omgeving. Hierbij hebben we bijzondere aandacht voor wat er in de wijk nodig is: de wijkbarometer houdt de vinger aan de pols en maakt het beleid wendbaarder op wijkschaal. We zijn transparant over de effecten van het gevoerde beleid. Om dit waar te maken, rekenen we op een sterk uitgewerkt databeleid, dat verankerd is in de organisatiecultuur. Onze medewerkers kunnen de juiste keuze maken op basis van relevante en actuele data. Die data zijn beschikbaar en bruikbaar in elke fase van de strategische cyclus: planning, uitvoering, evaluatie. OCMW Gent - Stad Gent / MJP 2026 - 2031 / Strategische nota 177 ",
+          "description": "We evolueren naar een strategisch georiënteerde werking van Stad Gent. We maken een betere koppeling tussen ambities en middelen. We stemmen de prioriteiten van de organisatie continu af op de wijzigende omgeving. Hierbij hebben we bijzondere aandacht voor wat er in de wijk nodig is: de wijkbarometer houdt de vinger aan de pols en maakt het beleid wendbaarder op wijkschaal. We zijn transparant over de effecten van het gevoerde beleid. Om dit waar te maken, rekenen we op een sterk uitgewerkt databeleid, dat verankerd is in de organisatiecultuur. Onze medewerkers kunnen de juiste keuze maken op basis van relevante en actuele data. Die data zijn beschikbaar en bruikbaar in elke fase van de strategische cyclus: planning, uitvoering, evaluatie. ",
           "budget": {
             "years": [
               2026.0,
@@ -8062,7 +8062,7 @@
           "id": "OD20080",
           "title": "Versterken van het continu verbeteren van de organisatie 2026 - 2031 Groep Gent",
           "page": 178,
-          "description": "Continu verbeteren zorgt voor tevreden klanten, betere resultaten en het vertrouwen van de burger in Stad Gent. Complexe maatschappelijke uitdagingen vragen een organisatie die daar flexibel mee kan omgaan. We versterken de wendbaarheid van de organisatie door diensten en departementen te ondersteunen bij het continu verbeteren van hun werking rond volgende thema's: organisatiebeheersing, gegevensbescherming en informatieveiligheid, organisatiemanagement, interne audit, welzijn op het werk, informatie- en archiefbeheer, 2e lijns klachtenbehandeling. Op die manier dragen we bij tot een wendbare, resultaatsgerichte en vertrouwenswekkende organisatie die vlot kan inspelen op toekomstige uitdagingen. ACQ1112 - Adviseren, begeleiden en stimuleren van Groep Gent op gebied van organisatie- en veranderingsmanagement Dienst Organisatieontwikkeling ACQ1113 - Adviseren, begeleiden en stimuleren van de organisatie op gebied van gegevensbescherming en informatieveiligheid Dienst Organisatieontwikkeling ACQ1412 - Adviseren over alle domeinen van welzijn op het werk Interne Dienst voor Preventie en Bescherming op het Werk ",
+          "description": "Continu verbeteren zorgt voor tevreden klanten, betere resultaten en het vertrouwen van de burger in Stad Gent. Complexe maatschappelijke uitdagingen vragen een organisatie die daar flexibel mee kan omgaan. We versterken de wendbaarheid van de organisatie door diensten en departementen te ondersteunen bij het continu verbeteren van hun werking rond volgende thema's: organisatiebeheersing, gegevensbescherming en informatieveiligheid, organisatiemanagement, interne audit, welzijn op het werk, informatie- en archiefbeheer, 2e lijns klachtenbehandeling. Op die manier dragen we bij tot een wendbare, resultaatsgerichte en vertrouwenswekkende organisatie die vlot kan inspelen op toekomstige uitdagingen. ",
           "budget": {
             "years": [
               2026.0,
@@ -8322,7 +8322,7 @@
           "id": "OD20082",
           "title": "Verankeren van een toekomstgericht HR-beleid en performante HR-dienstverlening 2026 - 2031 Groep Gent",
           "page": 181,
-          "description": "We hebben in ons HR-beleid oog voor diversiteit, inclusie, wendbaarheid en inzetbaarheid. We bieden strategisch HR-advies en ondersteuning aan op maat van de klant. We dragen zorg voor het welzijn van leidinggevenden en medewerkers, onder meer via coaching, re-integratie, verbindende personeelsmomenten en het ondersteunen van de vzw SodiGent. We ondersteunen de organisatie in het aantrekken en versterken van een bekwame talentpool van medewerkers, leidinggevenden en teams door gerichte werving, selectie, ontwikkeling, begeleiding en het inzetten van de Mobiele Ploeg. Zo zorgen we mee voor een optimale personeelsbezetting. Onze HR-instrumenten bieden duidelijke kaders aan leidinggevenden en medewerkers en stimuleren autonomie binnen afgesproken spelregels. We zorgen voor een helder juridisch personeelskader en adviseren de leidinggevenden in de toepassing ervan. We zorgen voor een correcte functiewaardering en -classificatie en een motiverende verloning. We voeren constructief en structureel overleg met de sociale partners. We bouwen aan een klantgerichte, toegankelijke, efficiënte en gelijkwaardige HR-dienstverlening, ondersteund door professionele netwerken, moderne systemen en gestroomlijnde processen. ACN0000 - organiseren van HR-Coördinatie en communicatie Dienst HR Coördinatie en Sodigent ACN0013 - Verhogen van de diversiteit binnen het personeelsbestand en zorgen voor een inclusieve werkcultuur Dienst HR Partners en Projecten ACN0014 - Organiseren van sociale dienstverlening voor de actieve en gepensioneerde leden Dienst HR Coördinatie en Sodigent ACN0015 - Organiseren van personeelsmomenten Dienst HR Coördinatie en Sodigent ",
+          "description": "We hebben in ons HR-beleid oog voor diversiteit, inclusie, wendbaarheid en inzetbaarheid. We bieden strategisch HR-advies en ondersteuning aan op maat van de klant. We dragen zorg voor het welzijn van leidinggevenden en medewerkers, onder meer via coaching, re-integratie, verbindende personeelsmomenten en het ondersteunen van de vzw SodiGent. We ondersteunen de organisatie in het aantrekken en versterken van een bekwame talentpool van medewerkers, leidinggevenden en teams door gerichte werving, selectie, ontwikkeling, begeleiding en het inzetten van de Mobiele Ploeg. Zo zorgen we mee voor een optimale personeelsbezetting. Onze HR-instrumenten bieden duidelijke kaders aan leidinggevenden en medewerkers en stimuleren autonomie binnen afgesproken spelregels. We zorgen voor een helder juridisch personeelskader en adviseren de leidinggevenden in de toepassing ervan. We zorgen voor een correcte functiewaardering en -classificatie en een motiverende verloning. We voeren constructief en structureel overleg met de sociale partners. We bouwen aan een klantgerichte, toegankelijke, efficiënte en gelijkwaardige HR-dienstverlening, ondersteund door professionele netwerken, moderne systemen en gestroomlijnde processen. ",
           "budget": {
             "years": [
               2026.0,
@@ -8454,7 +8454,7 @@
           "id": "OD20083",
           "title": "2026 - 2031 Groep Gent",
           "page": 183,
-          "description": "belastingreglementen en stimuleren van financieel inzicht, innovatie en compliance AC35510 - Beheren van financiële processen voor het bestuur en de verbonden rechtspersonen FIN Bestuur en Verbonden rechtspersonen ",
+          "description": "belastingreglementen en stimuleren van financieel inzicht, innovatie en compliance ",
           "budget": {
             "years": [
               2026.0,
@@ -8590,7 +8590,7 @@
           "id": "OD20086",
           "title": "Bouwen aan kwalitatief en toekomstbestendig vastgoed 2026 - 2031 Groep Gent",
           "page": 185,
-          "description": "Ons vastgoed helpt beleidsdoelstellingen te realiseren. Door te bouwen aan kwalitatief en toekomstbestendig vastgoed kan vastgoed beter en langer ingezet worden als een middel om beleid te maken. We zetten hierbij in op meerjarenonderhoudsplan-gestuurd assetmanagement (MJOP). De wettelijke conformiteit behalen we met aandacht voor Meervoudig ruimtegebruik, Asbest, Klimaat, Erfgoed en Toegankelijkheid (MAKET). Plan ACO1100 - Organiseren interne werking Dienst FM Welzijn Dienst FM Welzijn ACO1111 - Uitvoeren van onderhoud gebouwen en operationeel beheer gebouwen Dienst FM Welzijn Dienst FM Welzijn ACO1113 - Organiseren facilitair beheer Dienst FM Welzijn Dienst FM Welzijn ACO1210 - Instaan voor bouwkundig projectmanagement Dienst FM Welzijn Dienst FM Welzijn ACO1520 - Optreden binnen voogdij rol erediensten Dienst FM Themagebouwen ACO1700 - Organiseren interne werking Dienst FM Themagebouwen Dienst FM Themagebouwen ACO2120 - Instaan voor bouwkundig projectmanagement FM Onderwijs Dienst FM Onderwijs ACZ2000 - Beheren privaat patrimonium Dienst Vastgoed Actieplan ",
+          "description": "Ons vastgoed helpt beleidsdoelstellingen te realiseren. Door te bouwen aan kwalitatief en toekomstbestendig vastgoed kan vastgoed beter en langer ingezet worden als een middel om beleid te maken. We zetten hierbij in op meerjarenonderhoudsplan-gestuurd assetmanagement (MJOP). De wettelijke conformiteit behalen we met aandacht voor Meervoudig ruimtegebruik, Asbest, Klimaat, Erfgoed en Toegankelijkheid (MAKET). ",
           "budget": {
             "years": [
               2026.0,
@@ -8734,7 +8734,7 @@
           "id": "OD20087",
           "title": "Aanbieden van soft facilities 2026 - 2031 Groep Gent",
           "page": 187,
-          "description": "Ondersteunen van onze klanten in hun dagelijkse werking met een professionele dienstverlening op vlak van soft facilities. Volgende dienstverlening wordt aangeboden: schoonmaak & cateringservices, goederentransport & magazijnen, aankoopcentrale, vlootbeheer, personenvervoer en publiek sanitair. AC34952 - Onderhouden, optimaliseren en verduurzamen van de vloot Dienst Aankoop en Logistiek AC35127 - Onderhouden, optimaliseren en verduurzamen van de vloot en fiets - investeringsenveloppe Dienst Aankoop en Logistiek AC35143 - Beheren en uitvoeren van personenvervoer Dienst Aankoop en Logistiek AC35540 - Operationeel beheer publiek sanitair Dienst Aankoop en Logistiek ACO2200 - Professionaliseren van de aankooporganisatie Dienst Aankoop en Logistiek ACO2201 - Operationeel beheer publiek sanitair Dienst Aankoop en Logistiek Actieplan ",
+          "description": "Ondersteunen van onze klanten in hun dagelijkse werking met een professionele dienstverlening op vlak van soft facilities. Volgende dienstverlening wordt aangeboden: schoonmaak & cateringservices, goederentransport & magazijnen, aankoopcentrale, vlootbeheer, personenvervoer en publiek sanitair. ",
           "budget": {
             "years": [
               2026.0,

@@ -11,6 +11,16 @@ def detect_identifier(text):
         return m.group(1) + m.group(2)
     return None
 
+def is_footer_or_page_number(text):
+    footer_text = "OCMW Gent - Stad Gent / MJP 2026 - 2031"
+    footer_match = re.search(footer_text, text)
+    if footer_match:
+        return True
+    page_number_match = re.search(r"^\d+$", text)
+    if page_number_match:
+        return True
+    return False
+
 
 # ------------------------------------------------------------
 # TABLE TYPE DETECTORS
