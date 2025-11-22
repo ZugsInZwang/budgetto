@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Budget Visualisation</title>
+<title>Strategische Nota MJP 26 - 30 Visualisation</title>
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <style>
     body {
@@ -71,7 +71,13 @@
 <body>
 
 <h1>Budget Visualisation</h1>
-
+<button id="backButton" style="
+    margin-bottom: 20px;
+    padding: 8px 14px;
+    font-size: 14px;
+    display:none;">
+    ⬅ Back
+</button>
 <div id="legend"></div>
 
 <div id="charts">
@@ -146,6 +152,31 @@ d3.json("strategische_nota.json").then(data => {
             years: ap.budget.years
         };
     }
+	
+	// ------------------------------------------------------
+    // BACK BUTTON
+    // ------------------------------------------------------
+	function updateBackButton() {
+		const btn = d3.select("#backButton");
+
+		if (currentLevel === "sd") {
+			btn.style("display", "none");
+		} else {
+			btn.style("display", "inline-block");
+		}
+	}
+
+	d3.select("#backButton").on("click", () => {
+		if (currentLevel === "action") {
+			currentLevel = "actionplans";
+			selectedAP = null;
+		} else if (currentLevel === "actionplans") {
+			currentLevel = "sd";
+			selectedSD = null;
+		}
+		updateView();
+	});
+
 
     // ------------------------------------------------------
     // DRAW EVERYTHING
@@ -172,9 +203,9 @@ d3.json("strategische_nota.json").then(data => {
             items = [{ id: ap.id, label: ap.id }];
             showDetails(ap);
         }
-
         drawLegend(items);
         drawCharts(dataset);
+		updateBackButton();
     }
 
     // ------------------------------------------------------
@@ -235,32 +266,36 @@ d3.json("strategische_nota.json").then(data => {
 
         const groups = svg.append("g");
 
-        dataset.forEach(item => {
-            let cumulative = 0;
+        // For each year, stack each item individually
+		years.forEach((year, yearIndex) => {
+			let cumulative = 0;
 
-            item[field].forEach((value, i) => {
-                svg.append("rect")
-                    .attr("x", x(item.years[i]))
-                    .attr("y", y(value + cumulative))
-                    .attr("width", x.bandwidth())
-                    .attr("height", y(cumulative) - y(value + cumulative))
-                    .attr("fill", color(item.id))
-                    .on("mouseover", () => highlightLegend(item.id))
-                    .on("mouseout", () => unhighlightLegend())
-                    .on("click", () => {
-                        if (currentLevel === "sd") {
-                            currentLevel = "actionplans";
-                            selectedSD = item.id;
-                        } else if (currentLevel === "actionplans") {
-                            currentLevel = "action";
-                            selectedAP = item.id;
-                        }
-                        updateView();
-                    });
+			dataset.forEach(item => {
+				const value = item[field][yearIndex];
 
-                cumulative += value;
-            });
-        });
+				svg.append("rect")
+					.attr("x", x(year))
+					.attr("y", y(cumulative + value))
+					.attr("width", x.bandwidth())
+					.attr("height", y(cumulative) - y(cumulative + value))
+					.attr("fill", color(item.id))
+					.on("mouseover", () => highlightLegend(item.id))
+					.on("mouseout", () => unhighlightLegend())
+					.on("click", () => {
+						if (currentLevel === "sd") {
+							currentLevel = "actionplans";
+							selectedSD = item.id;
+						} else if (currentLevel === "actionplans") {
+							currentLevel = "action";
+							selectedAP = item.id;
+						}
+						updateView();
+					});
+
+				cumulative += value;
+			});
+		});
+
 
         // axis
         svg.append("g")
